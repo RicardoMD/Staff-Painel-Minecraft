@@ -1,0 +1,1402 @@
+[12:02:25] [Server thread/INFO]: Starting minecraft server version 1.8.8
+[12:02:25] [Server thread/INFO]: Loading properties
+[12:02:25] [Server thread/INFO]: Default game type: SURVIVAL
+[12:02:25] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-db6de12-18fbb24 (MC: 1.8.8) (Implementing API version 1.8.8-R0.1-SNAPSHOT)
+[12:02:25] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[12:02:25] [Server thread/INFO]: Using 4 threads for Netty based IO
+[12:02:25] [Server thread/INFO]: Debug logging is disabled
+[12:02:25] [Server thread/INFO]: Generating keypair
+[12:02:25] [Server thread/INFO]: Starting Minecraft server on *:1000
+[12:02:25] [Server thread/INFO]: Using epoll channel type
+[12:02:25] [Server thread/WARN]: Plugin `iConomy_Recreation v8.0' uses the space-character (0x20) in its name `iConomy Recreation' - this is discouraged
+[12:02:26] [Server thread/WARN]: Plugin `PagSeguro_API v2.0.4' uses the space-character (0x20) in its name `PagSeguro API' - this is discouraged
+[12:02:26] [Server thread/WARN]: Plugin `PayPal_NVP v0.0.1.4' uses the space-character (0x20) in its name `PayPal NVP' - this is discouraged
+[12:02:26] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[12:02:26] [Server thread/INFO]: [AsyncWorldEditInjector] Loading AsyncWorldEditInjector v2.2.2
+[12:02:26] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.0;3342-78f975b9
+[12:02:26] [Server thread/INFO]: [Essentials] Loading Essentials vTeamCity
+[12:02:26] [Server thread/INFO]: [iConomy_Recreation] Loading iConomy_Recreation v8.0
+[12:02:26] [Server thread/INFO]: [BestRanked] Loading BestRanked v2.0.3
+[12:02:26] [Server thread/INFO]: [ClearLag] Loading ClearLag v2.9.3
+[12:02:26] [Server thread/INFO]: [Libstore] Loading Libstore v1.1.3
+[12:02:26] [Server thread/INFO]: [Libstore] Loading default libraries first...
+[12:02:26] [Server thread/INFO]: [Libstore] Loading library: def_dbcp.jar
+[12:02:26] [Server thread/INFO]: [Libstore] Loading library: def_pool.jar
+[12:02:26] [Server thread/INFO]: [Libstore] Loading library: def_logger.jar
+[12:02:26] [Server thread/INFO]: [Libstore] Loading library: def_collections.jar
+[12:02:26] [Server thread/INFO]: [Libstore] Loading library: def_io.jar
+[12:02:26] [Server thread/INFO]: [Libstore] Loading library: def_proxy.jar
+[12:02:26] [Server thread/INFO]: [Libstore] Loaded 6 default libraries!
+[12:02:26] [Server thread/INFO]: [Libstore] Loading third-party libraries now...
+[12:02:26] [Server thread/INFO]: [PlugMan] Loading PlugMan v2.0.8
+[12:02:26] [Server thread/INFO]: [AdvancedBan] Loading AdvancedBan v2.0.5
+[12:02:26] [Server thread/INFO]: [VipZeroFIX] Loading VipZeroFIX v1.0.0
+[12:02:26] [Server thread/INFO]: [AstatineTeleport] Loading AstatineTeleport v1.0.2
+[12:02:26] [Server thread/INFO]: [AstatineNPC] Loading AstatineNPC v1.0.0
+[12:02:26] [Server thread/INFO]: [WorldBorder] Loading WorldBorder v1.8.1
+[12:02:26] [Server thread/INFO]: [NametagEdit] Loading NametagEdit v4.1.2
+[12:02:26] [Server thread/INFO]: [AstatineCorreio] Loading AstatineCorreio v1.0
+[12:02:26] [Server thread/INFO]: [AstatineTerrenos] Loading AstatineTerrenos v1.0
+[12:02:26] [Server thread/INFO]: [PayPal_NVP] Loading PayPal_NVP v0.0.1.4
+[12:02:26] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v2.4-b527
+[12:02:26] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v6.1
+[12:02:26] [Server thread/INFO]: [Holograms] Loading Holograms v2.3.0-SNAPSHOT
+[12:02:26] [Server thread/INFO]: [ProtocolLib] Loading ProtocolLib v3.6.5
+[12:02:26] [Server thread/INFO]: [AstatineAddons] Loading AstatineAddons v2.9.3
+[12:02:26] [Server thread/INFO]: [SkinsRestorer] Loading SkinsRestorer v12.8
+[12:02:26] [Server thread/INFO]: [ChestPlus] Loading ChestPlus v1.0
+[12:02:26] [Server thread/INFO]: [AsyncWorldEdit] Loading AsyncWorldEdit v2.2.2
+[12:02:26] [Server thread/INFO]: [VoxelSniper] Loading VoxelSniper v5.171.0-SNAPSHOT
+[12:02:26] [Server thread/INFO]: [AstatineLogin] Loading AstatineLogin v1.0
+[12:02:26] [Server thread/INFO]: [PermissionsEx] Loading PermissionsEx v1.23.4
+[12:02:26] [Server thread/WARN]: [PermissionsEx] This server is in offline mode. Unless this server is configured to integrate with a supported proxy (see http://dft.ba/-8ous), UUIDs *may not be stable*!
+[12:02:26] [Server thread/INFO]: [Eventos] Loading Eventos v1.0
+[12:02:26] [Server thread/INFO]: [PagSeguro_API] Loading PagSeguro_API v2.0.4
+[12:02:26] [Server thread/INFO]: [mcMMO] Loading mcMMO v1.5.03-b62
+[12:02:26] [Server thread/INFO]: [Vault] Loading Vault v1.5.6-b49
+[12:02:26] [Server thread/INFO]: [AstatineClans] Loading AstatineClans v2.0
+[12:02:26] [Server thread/INFO]: [AstatineHome] Loading AstatineHome v1.5.12
+[12:02:26] [Server thread/INFO]: [TitleManager] Loading TitleManager v1.5.12
+[12:02:26] [Server thread/INFO]: [AstatineX1] Loading AstatineX1 v1.0
+[12:02:26] [Server thread/INFO]: [LWC] Loading LWC v1.7.3
+[12:02:26] [Server thread/INFO]: [VipZero] Loading VipZero v1.2.2
+[12:02:26] [Server thread/INFO]: [Citizens] Loading Citizens v2.0.16-SNAPSHOT (build 1267)
+[12:02:26] [Server thread/INFO]: [AsyncWorldEditInjector] Enabling AsyncWorldEditInjector v2.2.2
+[12:02:26] [Server thread/INFO]: [AsyncWorldEditInjector] Injector platform set to: InjectorBukkit
+[12:02:26] [Server thread/INFO]: [AsyncWorldEditInjector] Injecting WorldEdit classes...
+[12:02:26] [Server thread/INFO]: [AsyncWorldEditInjector] Class com.sk89q.worldedit.EditSession injected.
+[12:02:26] [Server thread/INFO]: [AsyncWorldEditInjector] Class com.sk89q.worldedit.function.operation.Operations injected.
+[12:02:26] [Server thread/INFO]: [AsyncWorldEditInjector] Class com.sk89q.worldedit.command.SchematicCommands injected.
+[12:02:26] [Server thread/INFO]: [AsyncWorldEditInjector] Class com.sk89q.worldedit.command.ScriptingCommands injected.
+[12:02:26] [Server thread/INFO]: [AsyncWorldEditInjector] Enabled
+[12:02:26] [Server thread/INFO]: [Libstore] Enabling Libstore v1.1.3
+[12:02:26] [Server thread/INFO]: [Libstore] Wait while we search for new updates...
+[12:02:26] [Server thread/INFO]: [Libstore] You're using latest version! Enjoy!
+[12:02:26] [Server thread/INFO]: [Libstore] All things ready | [Author: ReedFlake]
+[12:02:26] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v3.6.5
+[12:02:26] [Server thread/INFO]: [ProtocolLib] Started structure compiler thread.
+[12:02:26] [Server thread/INFO]: [mcMMO] Enabling mcMMO v1.5.03-b62
+[12:02:27] [Server thread/INFO]: [mcMMO] Killing orphans
+[12:02:27] [Server thread/INFO]: [Vault] Enabling Vault v1.5.6-b49
+[12:02:27] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[12:02:27] [Server thread/WARN]: iConomy - If you are using Flatfile storage be aware that versions 6, 7 and 8 have a CRITICAL bug which can wipe ALL iconomy data.
+[12:02:27] [Server thread/WARN]: if you're using Votifier, or any other plugin which handles economy data in a threaded manner your server is at risk!
+[12:02:27] [Server thread/WARN]: it is highly suggested to use SQL with iCo6 or to use an alternative economy plugin!
+[12:02:27] [Server thread/INFO]: [Vault] [Economy] iConomy 6 found: Waiting
+[12:02:27] [Server thread/INFO]: [Vault] [Permission] PermissionsEx found: Waiting
+[12:02:27] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[12:02:27] [Server thread/INFO]: [Vault] [Chat] PermissionsEx found: Waiting
+[12:02:27] [Server thread/INFO]: [Vault] Enabled Version 1.5.6-b49
+[12:02:27] [Server thread/INFO]: [LWC] Enabling LWC v1.7.3
+[12:02:27] [Server thread/INFO]: [LWC] SpigotUpdater not enabled. If you want to use the updater, please install this:
+[12:02:27] [Server thread/INFO]: [LWC] https://www.spigotmc.org/resources/api-spigotupdater.7563/
+[12:02:27] [Server thread/INFO]: [LWC] Connecting to MySQL
+[12:02:27] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[12:02:27] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[12:02:27] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[12:02:27] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[12:02:27] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[12:02:27] [Server thread/INFO]: Preparing level "VoidSpawn"
+[12:02:27] [Server thread/INFO]: -------- World Settings For [VoidSpawn] --------
+[12:02:27] [Server thread/INFO]: Mob Spawn Range: 4
+[12:02:27] [Server thread/INFO]: Anti X-Ray: true
+[12:02:27] [Server thread/INFO]: 	Engine Mode: 2
+[12:02:27] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 52, 54, 56, 73, 74, 82, 129, 130]
+[12:02:27] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[12:02:27] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:02:27] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:02:27] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:02:27] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:02:27] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:02:27] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:02:27] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:02:27] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:02:27] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:02:27] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[12:02:27] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:02:27] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[12:02:27] [Server thread/INFO]: Random Lighting Updates: false
+[12:02:27] [Server thread/INFO]: Structure Info Saving: true
+[12:02:27] [Server thread/INFO]: Sending up to 10 chunks per packet
+[12:02:27] [Server thread/INFO]: Max Entity Collisions: 8
+[12:02:27] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[12:02:27] [Server thread/INFO]: Max TNT Explosions: 100
+[12:02:27] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:02:27] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:02:27] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:02:27] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[12:02:27] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:02:27] [Server thread/INFO]: View Distance: 10
+[12:02:27] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:02:27] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[12:02:27] [Server thread/INFO]: Clear tick list: false
+[12:02:27] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:02:27] [Server thread/INFO]: -------- World Settings For [VoidSpawn_nether] --------
+[12:02:27] [Server thread/INFO]: Mob Spawn Range: 4
+[12:02:27] [Server thread/INFO]: Anti X-Ray: true
+[12:02:27] [Server thread/INFO]: 	Engine Mode: 2
+[12:02:27] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 52, 54, 56, 73, 74, 82, 129, 130]
+[12:02:27] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[12:02:27] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:02:27] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:02:27] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:02:27] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:02:27] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:02:27] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:02:27] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:02:27] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:02:27] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:02:27] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[12:02:27] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:02:27] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[12:02:27] [Server thread/INFO]: Random Lighting Updates: false
+[12:02:27] [Server thread/INFO]: Structure Info Saving: true
+[12:02:27] [Server thread/INFO]: Sending up to 10 chunks per packet
+[12:02:27] [Server thread/INFO]: Max Entity Collisions: 8
+[12:02:27] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[12:02:27] [Server thread/INFO]: Max TNT Explosions: 100
+[12:02:27] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:02:27] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:02:27] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:02:27] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[12:02:27] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:02:27] [Server thread/INFO]: View Distance: 10
+[12:02:27] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:02:27] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[12:02:27] [Server thread/INFO]: Clear tick list: false
+[12:02:27] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:02:27] [Server thread/INFO]: Preparing start region for level 0 (Seed: -8127561538247362277)
+[12:02:28] [Server thread/INFO]: Preparing start region for level 1 (Seed: -8127561538247362277)
+[12:02:28] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.0;3342-78f975b9
+[12:02:28] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[12:02:28] [Server thread/WARN]: [WorldEdit] 
+**********************************************
+** This WorldEdit version does not fully support your version of Bukkit.
+**
+** When working with blocks or undoing, chests will be empty, signs
+** will be blank, and so on. There will be no support for entity
+** and biome-related functions.
+**
+** Please see http://wiki.sk89q.com/wiki/WorldEdit/Bukkit_adapters
+**********************************************
+
+[12:02:28] [Server thread/INFO]: [Essentials] Enabling Essentials vTeamCity
+[12:02:28] [Server thread/INFO]: Bukkit version format changed. Version not checked.
+[12:02:28] [Server thread/INFO]: git-Spigot-db6de12-18fbb24 (MC: 1.8.8)
+[12:02:28] [Server thread/INFO]: 1.8.8-R0.1-SNAPSHOT
+[12:02:28] [Server thread/INFO]: Using locale pt
+[12:02:28] [Server thread/INFO]: Using locale pt
+[12:02:28] [Server thread/INFO]: [Vault][Economy] Essentials Economy hooked.
+[12:02:28] [Server thread/INFO]: Essentials: Using config file enhanced permissions.
+[12:02:28] [Server thread/INFO]: Permissions listed in as player-commands will be given to all users.
+[12:02:28] [Server thread/INFO]: [Essentials] Payment method found (Vault - Economy: iConomy  version: 1.5.6-b49)
+[12:02:28] [Server thread/INFO]: [iConomy_Recreation] Enabling iConomy_Recreation v8.0
+[12:02:28] [Server thread/INFO]: [iConomy] Downloading mysql.jar...
+[12:02:28] [Server thread/INFO]:    + mysql.jar (-1 B)
+[12:02:28] [Server thread/INFO]: [iConomy] Error Downloading File: java.net.UnknownHostException: mirror.nexua.org
+[12:02:28] [Server thread/INFO]: [iConomy] Finished Downloading.
+[12:02:28] [Server thread/INFO]: [iConomy_Recreation - April Fools] Enabled (17 ms)
+[12:02:28] [Server thread/INFO]: [iConomy_Recreation] Hello, I'm Nijikokun. Yes, this is an April Fools joke, but '/money top' was fixed! Enjoy :) - Rare Version!
+[12:02:28] [Server thread/INFO]: [Vault][Economy] iConomy 8 hooked.
+[12:02:28] [Thread-13/INFO]: [iConomy_Recreation - April Fools] Purged accounts with default balance.
+[12:02:28] [Server thread/INFO]: [BestRanked] Enabling BestRanked v2.0.3
+[12:02:28] [Server thread/INFO]:  [m
+[12:02:28] [Server thread/INFO]: BestRanked - by: jimmyfilips.[m
+[12:02:28] [Server thread/INFO]:  [m
+[12:02:28] [Server thread/INFO]: BestRanked - Usando SQL[m
+[12:02:28] [Server thread/INFO]: [ClearLag] Enabling ClearLag v2.9.3
+[12:02:29] [Server thread/INFO]: [ClearLag] Loading modules...
+[12:02:29] [Server thread/INFO]: [ClearLag] Modules enabed, loading config values
+[12:02:29] [Server thread/INFO]: [ClearLag] Modules have been loaded!
+[12:02:29] [Server thread/INFO]: [ClearLag] Clearlag is now enabled!
+[12:02:29] [Server thread/INFO]: [PlugMan] Enabling PlugMan v2.0.8
+[12:02:29] [Server thread/INFO]: [PlugMan] Skipping Metrics.
+[12:02:29] [Server thread/INFO]: [PlugMan] Skipping Updater.
+[12:02:29] [Server thread/INFO]: [AdvancedBan] Enabling AdvancedBan v2.0.5
+[12:02:29] [Server thread/INFO]: 
+ 
+[]=====[Enabling AdvancedBan]=====[]
+| Information:
+|   Name: AdvancedBan
+|   Developer: Leoko
+|   Version: 2.0.5
+|   MySQL: true
+| Support:
+|   Skype: Leoko33
+|   Mail: Leoko4433@gmail.com
+| Update:
+|   You have the newest version
+[]================================[]
+ 
+[12:02:29] [Server thread/INFO]: [AdvancedBan] MC-Stats >> Connected
+[12:02:29] [Server thread/INFO]: [VipZeroFIX] Enabling VipZeroFIX v1.0.0
+[12:02:29] [Server thread/INFO]: [VipZeroFIX] VipZeroFIX (V1.0) - Autor: SubZero0
+[12:02:29] [Server thread/INFO]: [AstatineTeleport] Enabling AstatineTeleport v1.0.2
+[12:02:29] [Server thread/INFO]: [AstatineNPC] Enabling AstatineNPC v1.0.0
+[12:02:29] [Server thread/ERROR]: [AstatineNPC] - Vault Carregado!
+[12:02:29] [Server thread/INFO]: [WorldBorder] Enabling WorldBorder v1.8.1
+[12:02:29] [Server thread/INFO]: [WorldBorder] [CONFIG] Using elliptic/round border, knockback of 3.0 blocks, and timer delay of 5.
+[12:02:29] [Server thread/INFO]: [WorldBorder] [CONFIG] Border-checking timed task started.
+[12:02:29] [Server thread/INFO]: [WorldBorder] For reference, the main world's spawn location is at X: 2.0 Y: 61.0 Z: 1.0
+[12:02:29] [Server thread/INFO]: [NametagEdit] Enabling NametagEdit v4.1.2
+[12:02:29] [Server thread/INFO]: [NametagEdit] Found PermissionsEx! Hooking in.
+[12:02:29] [Server thread/INFO]: [AstatineCorreio] Enabling AstatineCorreio v1.0
+[12:02:29] [Server thread/INFO]: [AstatineTerrenos] Enabling AstatineTerrenos v1.0
+[12:02:29] [Server thread/INFO]: [PayPal_NVP] Enabling PayPal_NVP v0.0.1.4
+[12:02:29] [Server thread/INFO]: [PayPal_NVP] Enabling PayPal NVP (V0.0.1.4) - Author: http://paypal-nvp.sourceforge.net/ & SubZero0
+[12:02:29] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v2.4-b527
+[12:02:29] [Server thread/INFO]: [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+[12:02:29] [Server thread/INFO]: [AllPay] - Version 10.0 - hooked into Essentials Economy for Multiverse-Core v2.4-b527
+[12:02:29] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'VoidArena' - Env: NORMAL - Type: FLAT & seed: -8127561538247362277
+[12:02:29] [Server thread/INFO]: -------- World Settings For [VoidArena] --------
+[12:02:29] [Server thread/INFO]: Mob Spawn Range: 4
+[12:02:29] [Server thread/INFO]: Anti X-Ray: true
+[12:02:29] [Server thread/INFO]: 	Engine Mode: 2
+[12:02:29] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 52, 54, 56, 73, 74, 82, 129, 130]
+[12:02:29] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[12:02:29] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:02:29] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:02:29] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:02:29] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:02:29] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:02:29] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:02:29] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:02:29] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:02:29] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:02:29] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[12:02:29] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:02:29] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[12:02:29] [Server thread/INFO]: Random Lighting Updates: false
+[12:02:29] [Server thread/INFO]: Structure Info Saving: true
+[12:02:29] [Server thread/INFO]: Sending up to 10 chunks per packet
+[12:02:29] [Server thread/INFO]: Max Entity Collisions: 8
+[12:02:29] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[12:02:29] [Server thread/INFO]: Max TNT Explosions: 100
+[12:02:29] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:02:29] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:02:29] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:02:29] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[12:02:29] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:02:29] [Server thread/INFO]: View Distance: 10
+[12:02:29] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:02:29] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[12:02:29] [Server thread/INFO]: Clear tick list: false
+[12:02:29] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:02:29] [Server thread/INFO]: Preparing start region for level 2 (Seed: -8127561538247362277)
+[12:02:29] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'VoidKiller' - Env: NORMAL - Type: FLAT & seed: -8127561538247362277
+[12:02:29] [Server thread/INFO]: -------- World Settings For [VoidKiller] --------
+[12:02:29] [Server thread/INFO]: Mob Spawn Range: 4
+[12:02:29] [Server thread/INFO]: Anti X-Ray: true
+[12:02:29] [Server thread/INFO]: 	Engine Mode: 2
+[12:02:29] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 52, 54, 56, 73, 74, 82, 129, 130]
+[12:02:29] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[12:02:29] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:02:29] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:02:29] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:02:29] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:02:29] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:02:29] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:02:29] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:02:29] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:02:29] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:02:29] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[12:02:29] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:02:29] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[12:02:29] [Server thread/INFO]: Random Lighting Updates: false
+[12:02:29] [Server thread/INFO]: Structure Info Saving: true
+[12:02:29] [Server thread/INFO]: Sending up to 10 chunks per packet
+[12:02:29] [Server thread/INFO]: Max Entity Collisions: 8
+[12:02:29] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[12:02:29] [Server thread/INFO]: Max TNT Explosions: 100
+[12:02:29] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:02:29] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:02:29] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:02:29] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[12:02:29] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:02:29] [Server thread/INFO]: View Distance: 10
+[12:02:29] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:02:29] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[12:02:29] [Server thread/INFO]: Clear tick list: false
+[12:02:29] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:02:29] [Server thread/INFO]: Preparing start region for level 3 (Seed: -8127561538247362277)
+[12:02:29] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'VoidMadeira' - Env: NORMAL - Type: FLAT & seed: 3529926626050375362
+[12:02:29] [Server thread/INFO]: -------- World Settings For [VoidMadeira] --------
+[12:02:29] [Server thread/INFO]: Mob Spawn Range: 4
+[12:02:29] [Server thread/INFO]: Anti X-Ray: true
+[12:02:29] [Server thread/INFO]: 	Engine Mode: 2
+[12:02:29] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 52, 54, 56, 73, 74, 82, 129, 130]
+[12:02:29] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[12:02:29] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:02:29] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:02:29] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:02:29] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:02:29] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:02:29] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:02:29] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:02:29] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:02:29] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:02:29] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[12:02:29] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:02:29] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[12:02:29] [Server thread/INFO]: Random Lighting Updates: false
+[12:02:29] [Server thread/INFO]: Structure Info Saving: true
+[12:02:29] [Server thread/INFO]: Sending up to 10 chunks per packet
+[12:02:29] [Server thread/INFO]: Max Entity Collisions: 8
+[12:02:29] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[12:02:29] [Server thread/INFO]: Max TNT Explosions: 100
+[12:02:29] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:02:29] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:02:29] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:02:29] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[12:02:29] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:02:29] [Server thread/INFO]: View Distance: 10
+[12:02:29] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:02:29] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[12:02:29] [Server thread/INFO]: Clear tick list: false
+[12:02:29] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:02:29] [Server thread/INFO]: Preparing start region for level 4 (Seed: 3529926626050375362)
+[12:02:29] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'VoidMinerar' - Env: NORMAL - Type: NORMAL & seed: 2244010605177290628
+[12:02:29] [Server thread/INFO]: -------- World Settings For [VoidMinerar] --------
+[12:02:29] [Server thread/INFO]: Mob Spawn Range: 4
+[12:02:29] [Server thread/INFO]: Anti X-Ray: true
+[12:02:29] [Server thread/INFO]: 	Engine Mode: 2
+[12:02:29] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 52, 54, 56, 73, 74, 82, 129, 130]
+[12:02:29] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[12:02:29] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:02:29] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:02:29] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:02:29] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:02:29] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:02:29] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:02:29] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:02:29] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:02:29] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:02:29] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[12:02:29] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:02:29] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[12:02:29] [Server thread/INFO]: Random Lighting Updates: false
+[12:02:29] [Server thread/INFO]: Structure Info Saving: true
+[12:02:29] [Server thread/INFO]: Sending up to 10 chunks per packet
+[12:02:29] [Server thread/INFO]: Max Entity Collisions: 8
+[12:02:29] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[12:02:29] [Server thread/INFO]: Max TNT Explosions: 100
+[12:02:29] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:02:29] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:02:29] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:02:29] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[12:02:29] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:02:29] [Server thread/INFO]: View Distance: 10
+[12:02:29] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:02:29] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[12:02:29] [Server thread/INFO]: Clear tick list: false
+[12:02:29] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:02:29] [Server thread/INFO]: Preparing start region for level 5 (Seed: 2244010605177290628)
+[12:02:30] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'VoidMobs' - Env: NORMAL - Type: FLAT & seed: 3529926626050375362
+[12:02:30] [Server thread/INFO]: -------- World Settings For [VoidMobs] --------
+[12:02:30] [Server thread/INFO]: Mob Spawn Range: 4
+[12:02:30] [Server thread/INFO]: Anti X-Ray: true
+[12:02:30] [Server thread/INFO]: 	Engine Mode: 2
+[12:02:30] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 52, 54, 56, 73, 74, 82, 129, 130]
+[12:02:30] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[12:02:30] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:02:30] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:02:30] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:02:30] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:02:30] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:02:30] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:02:30] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:02:30] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:02:30] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:02:30] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[12:02:30] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:02:30] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[12:02:30] [Server thread/INFO]: Random Lighting Updates: false
+[12:02:30] [Server thread/INFO]: Structure Info Saving: true
+[12:02:30] [Server thread/INFO]: Sending up to 10 chunks per packet
+[12:02:30] [Server thread/INFO]: Max Entity Collisions: 8
+[12:02:30] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[12:02:30] [Server thread/INFO]: Max TNT Explosions: 100
+[12:02:30] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:02:30] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:02:30] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:02:30] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[12:02:30] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:02:30] [Server thread/INFO]: View Distance: 10
+[12:02:30] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:02:30] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[12:02:30] [Server thread/INFO]: Clear tick list: false
+[12:02:30] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:02:30] [Server thread/INFO]: Preparing start region for level 6 (Seed: 3529926626050375362)
+[12:02:30] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'VoidSpawn' - Env: NORMAL - Type: FLAT & seed: -8127561538247362277
+[12:02:30] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'VoidTesouro' - Env: NORMAL - Type: FLAT & seed: -8127561538247362277
+[12:02:30] [Server thread/INFO]: -------- World Settings For [VoidTesouro] --------
+[12:02:30] [Server thread/INFO]: Mob Spawn Range: 4
+[12:02:30] [Server thread/INFO]: Anti X-Ray: true
+[12:02:30] [Server thread/INFO]: 	Engine Mode: 2
+[12:02:30] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 52, 54, 56, 73, 74, 82, 129, 130]
+[12:02:30] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[12:02:30] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:02:30] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:02:30] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:02:30] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:02:30] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:02:30] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:02:30] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:02:30] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:02:30] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:02:30] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[12:02:30] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:02:30] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[12:02:30] [Server thread/INFO]: Random Lighting Updates: false
+[12:02:30] [Server thread/INFO]: Structure Info Saving: true
+[12:02:30] [Server thread/INFO]: Sending up to 10 chunks per packet
+[12:02:30] [Server thread/INFO]: Max Entity Collisions: 8
+[12:02:30] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[12:02:30] [Server thread/INFO]: Max TNT Explosions: 100
+[12:02:30] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:02:30] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:02:30] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:02:30] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[12:02:30] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:02:30] [Server thread/INFO]: View Distance: 10
+[12:02:30] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:02:30] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[12:02:30] [Server thread/INFO]: Clear tick list: false
+[12:02:30] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:02:30] [Server thread/INFO]: Preparing start region for level 7 (Seed: -8127561538247362277)
+[12:02:30] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'VoidWarpVip' - Env: NORMAL - Type: FLAT & seed: -8127561538247362277
+[12:02:30] [Server thread/INFO]: -------- World Settings For [VoidWarpVip] --------
+[12:02:30] [Server thread/INFO]: Mob Spawn Range: 4
+[12:02:30] [Server thread/INFO]: Anti X-Ray: true
+[12:02:30] [Server thread/INFO]: 	Engine Mode: 2
+[12:02:30] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 52, 54, 56, 73, 74, 82, 129, 130]
+[12:02:30] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[12:02:30] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:02:30] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:02:30] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:02:30] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:02:30] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:02:30] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:02:30] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:02:30] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:02:30] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:02:30] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[12:02:30] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:02:30] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[12:02:30] [Server thread/INFO]: Random Lighting Updates: false
+[12:02:30] [Server thread/INFO]: Structure Info Saving: true
+[12:02:30] [Server thread/INFO]: Sending up to 10 chunks per packet
+[12:02:30] [Server thread/INFO]: Max Entity Collisions: 8
+[12:02:30] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[12:02:30] [Server thread/INFO]: Max TNT Explosions: 100
+[12:02:30] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:02:30] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:02:30] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:02:30] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[12:02:30] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:02:30] [Server thread/INFO]: View Distance: 10
+[12:02:30] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:02:30] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[12:02:30] [Server thread/INFO]: Clear tick list: false
+[12:02:30] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:02:30] [Server thread/INFO]: Preparing start region for level 8 (Seed: -8127561538247362277)
+[12:02:30] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'VoidSpawn_nether' - Env: NETHER - Type: FLAT & seed: -8127561538247362277
+[12:02:30] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'VoidNether' - Env: NETHER - Type: NORMAL & seed: 4932189731047877339
+[12:02:30] [Server thread/INFO]: -------- World Settings For [VoidNether] --------
+[12:02:30] [Server thread/INFO]: Mob Spawn Range: 4
+[12:02:30] [Server thread/INFO]: Anti X-Ray: true
+[12:02:30] [Server thread/INFO]: 	Engine Mode: 2
+[12:02:30] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 52, 54, 56, 73, 74, 82, 129, 130]
+[12:02:30] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[12:02:30] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:02:30] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:02:30] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:02:30] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:02:30] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:02:30] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:02:30] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:02:30] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:02:30] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:02:30] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[12:02:30] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:02:30] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[12:02:30] [Server thread/INFO]: Random Lighting Updates: false
+[12:02:30] [Server thread/INFO]: Structure Info Saving: true
+[12:02:30] [Server thread/INFO]: Sending up to 10 chunks per packet
+[12:02:30] [Server thread/INFO]: Max Entity Collisions: 8
+[12:02:30] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[12:02:30] [Server thread/INFO]: Max TNT Explosions: 100
+[12:02:30] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:02:30] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:02:30] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:02:30] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[12:02:30] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:02:30] [Server thread/INFO]: View Distance: 10
+[12:02:30] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:02:30] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[12:02:30] [Server thread/INFO]: Clear tick list: false
+[12:02:30] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:02:30] [Server thread/INFO]: Preparing start region for level 9 (Seed: 4932189731047877339)
+[12:02:30] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'VoidTerrenos' - Env: NORMAL - Type: FLAT & seed: 6963250156413749111
+[12:02:30] [Server thread/INFO]: -------- World Settings For [VoidTerrenos] --------
+[12:02:30] [Server thread/INFO]: Mob Spawn Range: 4
+[12:02:30] [Server thread/INFO]: Anti X-Ray: true
+[12:02:30] [Server thread/INFO]: 	Engine Mode: 2
+[12:02:30] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 52, 54, 56, 73, 74, 82, 129, 130]
+[12:02:30] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[12:02:30] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:02:30] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:02:30] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:02:30] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:02:30] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:02:30] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:02:30] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:02:30] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:02:30] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:02:30] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[12:02:30] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:02:30] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[12:02:30] [Server thread/INFO]: Random Lighting Updates: false
+[12:02:30] [Server thread/INFO]: Structure Info Saving: true
+[12:02:30] [Server thread/INFO]: Sending up to 10 chunks per packet
+[12:02:30] [Server thread/INFO]: Max Entity Collisions: 8
+[12:02:30] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[12:02:30] [Server thread/INFO]: Max TNT Explosions: 100
+[12:02:30] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:02:30] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:02:30] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:02:30] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[12:02:30] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:02:30] [Server thread/INFO]: View Distance: 10
+[12:02:30] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:02:30] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[12:02:30] [Server thread/INFO]: Clear tick list: false
+[12:02:30] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:02:30] [Server thread/INFO]: Preparing start region for level 10 (Seed: 6963250156413749111)
+[12:02:30] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'VoidWorld' - Env: NORMAL - Type: NORMAL & seed: -4500241199206031163
+[12:02:30] [Server thread/INFO]: -------- World Settings For [VoidWorld] --------
+[12:02:30] [Server thread/INFO]: Mob Spawn Range: 4
+[12:02:30] [Server thread/INFO]: Anti X-Ray: true
+[12:02:30] [Server thread/INFO]: 	Engine Mode: 2
+[12:02:30] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 52, 54, 56, 73, 74, 82, 129, 130]
+[12:02:30] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[12:02:30] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:02:30] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:02:30] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:02:30] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:02:30] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:02:30] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:02:30] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:02:30] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:02:30] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:02:30] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[12:02:30] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:02:30] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[12:02:30] [Server thread/INFO]: Random Lighting Updates: false
+[12:02:30] [Server thread/INFO]: Structure Info Saving: true
+[12:02:30] [Server thread/INFO]: Sending up to 10 chunks per packet
+[12:02:30] [Server thread/INFO]: Max Entity Collisions: 8
+[12:02:30] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[12:02:30] [Server thread/INFO]: Max TNT Explosions: 100
+[12:02:30] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:02:30] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:02:30] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:02:30] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[12:02:30] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:02:30] [Server thread/INFO]: View Distance: 10
+[12:02:30] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:02:30] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[12:02:30] [Server thread/INFO]: Clear tick list: false
+[12:02:30] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:02:30] [Server thread/INFO]: Preparing start region for level 11 (Seed: -4500241199206031163)
+[12:02:31] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'VoidLoja' - Env: NORMAL - Type: FLAT & seed: -8127561538247362277
+[12:02:31] [Server thread/INFO]: -------- World Settings For [VoidLoja] --------
+[12:02:31] [Server thread/INFO]: Mob Spawn Range: 4
+[12:02:31] [Server thread/INFO]: Anti X-Ray: true
+[12:02:31] [Server thread/INFO]: 	Engine Mode: 2
+[12:02:31] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 52, 54, 56, 73, 74, 82, 129, 130]
+[12:02:31] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[12:02:31] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:02:31] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:02:31] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:02:31] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:02:31] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:02:31] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:02:31] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:02:31] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:02:31] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:02:31] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[12:02:31] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:02:31] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[12:02:31] [Server thread/INFO]: Random Lighting Updates: false
+[12:02:31] [Server thread/INFO]: Structure Info Saving: true
+[12:02:31] [Server thread/INFO]: Sending up to 10 chunks per packet
+[12:02:31] [Server thread/INFO]: Max Entity Collisions: 8
+[12:02:31] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[12:02:31] [Server thread/INFO]: Max TNT Explosions: 100
+[12:02:31] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:02:31] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:02:31] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:02:31] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[12:02:31] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:02:31] [Server thread/INFO]: View Distance: 10
+[12:02:31] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:02:31] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[12:02:31] [Server thread/INFO]: Clear tick list: false
+[12:02:31] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:02:31] [Server thread/INFO]: Preparing start region for level 12 (Seed: -8127561538247362277)
+[12:02:31] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'VoidEnd' - Env: THE_END - Type: FLAT & seed: -8127561538247362277
+[12:02:31] [Server thread/INFO]: -------- World Settings For [VoidEnd] --------
+[12:02:31] [Server thread/INFO]: Mob Spawn Range: 4
+[12:02:31] [Server thread/INFO]: Anti X-Ray: true
+[12:02:31] [Server thread/INFO]: 	Engine Mode: 2
+[12:02:31] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 52, 54, 56, 73, 74, 82, 129, 130]
+[12:02:31] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[12:02:31] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:02:31] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:02:31] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:02:31] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:02:31] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:02:31] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:02:31] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:02:31] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:02:31] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:02:31] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[12:02:31] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:02:31] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[12:02:31] [Server thread/INFO]: Random Lighting Updates: false
+[12:02:31] [Server thread/INFO]: Structure Info Saving: true
+[12:02:31] [Server thread/INFO]: Sending up to 10 chunks per packet
+[12:02:31] [Server thread/INFO]: Max Entity Collisions: 8
+[12:02:31] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[12:02:31] [Server thread/INFO]: Max TNT Explosions: 100
+[12:02:31] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:02:31] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:02:31] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:02:31] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[12:02:31] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:02:31] [Server thread/INFO]: View Distance: 10
+[12:02:31] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:02:31] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[12:02:31] [Server thread/INFO]: Clear tick list: false
+[12:02:31] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:02:31] [Server thread/INFO]: Preparing start region for level 13 (Seed: -8127561538247362277)
+[12:02:31] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'VoidEventos' - Env: NORMAL - Type: FLAT & seed: 7798454686352367067
+[12:02:31] [Server thread/INFO]: -------- World Settings For [VoidEventos] --------
+[12:02:31] [Server thread/INFO]: Mob Spawn Range: 4
+[12:02:31] [Server thread/INFO]: Anti X-Ray: true
+[12:02:31] [Server thread/INFO]: 	Engine Mode: 2
+[12:02:31] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 52, 54, 56, 73, 74, 82, 129, 130]
+[12:02:31] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[12:02:31] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:02:31] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:02:31] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:02:31] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:02:31] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:02:31] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:02:31] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:02:31] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:02:31] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:02:31] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[12:02:31] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:02:31] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[12:02:31] [Server thread/INFO]: Random Lighting Updates: false
+[12:02:31] [Server thread/INFO]: Structure Info Saving: true
+[12:02:31] [Server thread/INFO]: Sending up to 10 chunks per packet
+[12:02:31] [Server thread/INFO]: Max Entity Collisions: 8
+[12:02:31] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[12:02:31] [Server thread/INFO]: Max TNT Explosions: 100
+[12:02:31] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:02:31] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:02:31] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:02:31] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[12:02:31] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:02:31] [Server thread/INFO]: View Distance: 10
+[12:02:31] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:02:31] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[12:02:31] [Server thread/INFO]: Clear tick list: false
+[12:02:31] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:02:31] [Server thread/INFO]: Preparing start region for level 14 (Seed: 7798454686352367067)
+[12:02:31] [Server thread/INFO]: [Multiverse-Core] 15 - World(s) loaded.
+[12:02:31] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v6.1
+[12:02:31] [Server thread/INFO]: [WorldGuard] (VoidSpawn) TNT ignition is PERMITTED.
+[12:02:31] [Server thread/INFO]: [WorldGuard] (VoidSpawn) Lighters are PERMITTED.
+[12:02:31] [Server thread/INFO]: [WorldGuard] (VoidSpawn) Lava fire is blocked.
+[12:02:31] [Server thread/INFO]: [WorldGuard] (VoidSpawn) Fire spread is UNRESTRICTED.
+[12:02:31] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'VoidSpawn'
+[12:02:31] [Server thread/INFO]: [WorldGuard] (VoidSpawn_nether) TNT ignition is PERMITTED.
+[12:02:31] [Server thread/INFO]: [WorldGuard] (VoidSpawn_nether) Lighters are PERMITTED.
+[12:02:31] [Server thread/INFO]: [WorldGuard] (VoidSpawn_nether) Lava fire is blocked.
+[12:02:31] [Server thread/INFO]: [WorldGuard] (VoidSpawn_nether) Fire spread is UNRESTRICTED.
+[12:02:31] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'VoidSpawn_nether'
+[12:02:31] [Server thread/INFO]: [WorldGuard] (VoidArena) TNT ignition is PERMITTED.
+[12:02:31] [Server thread/INFO]: [WorldGuard] (VoidArena) Lighters are PERMITTED.
+[12:02:31] [Server thread/INFO]: [WorldGuard] (VoidArena) Lava fire is blocked.
+[12:02:31] [Server thread/INFO]: [WorldGuard] (VoidArena) Fire spread is UNRESTRICTED.
+[12:02:31] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'VoidArena'
+[12:02:31] [Server thread/INFO]: [WorldGuard] (VoidKiller) TNT ignition is PERMITTED.
+[12:02:31] [Server thread/INFO]: [WorldGuard] (VoidKiller) Lighters are PERMITTED.
+[12:02:31] [Server thread/INFO]: [WorldGuard] (VoidKiller) Lava fire is blocked.
+[12:02:31] [Server thread/INFO]: [WorldGuard] (VoidKiller) Fire spread is UNRESTRICTED.
+[12:02:31] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'VoidKiller'
+[12:02:31] [Server thread/INFO]: [WorldGuard] (VoidMadeira) TNT ignition is PERMITTED.
+[12:02:31] [Server thread/INFO]: [WorldGuard] (VoidMadeira) Lighters are PERMITTED.
+[12:02:31] [Server thread/INFO]: [WorldGuard] (VoidMadeira) Lava fire is blocked.
+[12:02:31] [Server thread/INFO]: [WorldGuard] (VoidMadeira) Fire spread is UNRESTRICTED.
+[12:02:31] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'VoidMadeira'
+[12:02:31] [Server thread/INFO]: [WorldGuard] (VoidMinerar) TNT ignition is PERMITTED.
+[12:02:31] [Server thread/INFO]: [WorldGuard] (VoidMinerar) Lighters are PERMITTED.
+[12:02:31] [Server thread/INFO]: [WorldGuard] (VoidMinerar) Lava fire is blocked.
+[12:02:31] [Server thread/INFO]: [WorldGuard] (VoidMinerar) Fire spread is UNRESTRICTED.
+[12:02:31] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'VoidMinerar'
+[12:02:31] [Server thread/INFO]: [WorldGuard] (VoidMobs) TNT ignition is PERMITTED.
+[12:02:31] [Server thread/INFO]: [WorldGuard] (VoidMobs) Lighters are PERMITTED.
+[12:02:31] [Server thread/INFO]: [WorldGuard] (VoidMobs) Lava fire is blocked.
+[12:02:31] [Server thread/INFO]: [WorldGuard] (VoidMobs) Fire spread is UNRESTRICTED.
+[12:02:31] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'VoidMobs'
+[12:02:31] [Server thread/INFO]: [WorldGuard] (VoidTesouro) TNT ignition is PERMITTED.
+[12:02:31] [Server thread/INFO]: [WorldGuard] (VoidTesouro) Lighters are PERMITTED.
+[12:02:31] [Server thread/INFO]: [WorldGuard] (VoidTesouro) Lava fire is blocked.
+[12:02:31] [Server thread/INFO]: [WorldGuard] (VoidTesouro) Fire spread is UNRESTRICTED.
+[12:02:31] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'VoidTesouro'
+[12:02:31] [Server thread/INFO]: [WorldGuard] (VoidWarpVip) TNT ignition is PERMITTED.
+[12:02:31] [Server thread/INFO]: [WorldGuard] (VoidWarpVip) Lighters are PERMITTED.
+[12:02:31] [Server thread/INFO]: [WorldGuard] (VoidWarpVip) Lava fire is blocked.
+[12:02:31] [Server thread/INFO]: [WorldGuard] (VoidWarpVip) Fire spread is UNRESTRICTED.
+[12:02:31] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'VoidWarpVip'
+[12:02:31] [Server thread/INFO]: [WorldGuard] (VoidNether) TNT ignition is PERMITTED.
+[12:02:31] [Server thread/INFO]: [WorldGuard] (VoidNether) Lighters are PERMITTED.
+[12:02:31] [Server thread/INFO]: [WorldGuard] (VoidNether) Lava fire is blocked.
+[12:02:31] [Server thread/INFO]: [WorldGuard] (VoidNether) Fire spread is UNRESTRICTED.
+[12:02:31] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'VoidNether'
+[12:02:31] [Server thread/INFO]: [WorldGuard] (VoidTerrenos) TNT ignition is PERMITTED.
+[12:02:31] [Server thread/INFO]: [WorldGuard] (VoidTerrenos) Lighters are PERMITTED.
+[12:02:31] [Server thread/INFO]: [WorldGuard] (VoidTerrenos) Lava fire is blocked.
+[12:02:31] [Server thread/INFO]: [WorldGuard] (VoidTerrenos) Fire spread is UNRESTRICTED.
+[12:02:31] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'VoidTerrenos'
+[12:02:31] [Server thread/INFO]: [WorldGuard] (VoidWorld) TNT ignition is PERMITTED.
+[12:02:31] [Server thread/INFO]: [WorldGuard] (VoidWorld) Lighters are PERMITTED.
+[12:02:31] [Server thread/INFO]: [WorldGuard] (VoidWorld) Lava fire is blocked.
+[12:02:31] [Server thread/INFO]: [WorldGuard] (VoidWorld) Fire spread is UNRESTRICTED.
+[12:02:31] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'VoidWorld'
+[12:02:31] [Server thread/INFO]: [WorldGuard] (VoidLoja) TNT ignition is PERMITTED.
+[12:02:31] [Server thread/INFO]: [WorldGuard] (VoidLoja) Lighters are PERMITTED.
+[12:02:31] [Server thread/INFO]: [WorldGuard] (VoidLoja) Lava fire is blocked.
+[12:02:31] [Server thread/INFO]: [WorldGuard] (VoidLoja) Fire spread is UNRESTRICTED.
+[12:02:31] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'VoidLoja'
+[12:02:31] [Server thread/INFO]: [WorldGuard] (VoidEnd) TNT ignition is PERMITTED.
+[12:02:31] [Server thread/INFO]: [WorldGuard] (VoidEnd) Lighters are PERMITTED.
+[12:02:31] [Server thread/INFO]: [WorldGuard] (VoidEnd) Lava fire is blocked.
+[12:02:31] [Server thread/INFO]: [WorldGuard] (VoidEnd) Fire spread is UNRESTRICTED.
+[12:02:31] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'VoidEnd'
+[12:02:31] [Server thread/INFO]: [WorldGuard] (VoidEventos) TNT ignition is PERMITTED.
+[12:02:31] [Server thread/INFO]: [WorldGuard] (VoidEventos) Lighters are PERMITTED.
+[12:02:31] [Server thread/INFO]: [WorldGuard] (VoidEventos) Lava fire is blocked.
+[12:02:31] [Server thread/INFO]: [WorldGuard] (VoidEventos) Fire spread is UNRESTRICTED.
+[12:02:31] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'VoidEventos'
+[12:02:31] [Server thread/INFO]: [WorldGuard] Loading region data...
+[12:02:31] [Server thread/INFO]: [WorldGuard] Database: jdbc:mysql://localhost/serv01db (MySQL 5.7)
+[12:02:31] [Server thread/INFO]: [WorldGuard] Current version of schema `serv01db`: 2
+[12:02:31] [Server thread/INFO]: [WorldGuard] Schema `serv01db` is up to date. No migration necessary.
+[12:02:32] [Server thread/INFO]: [Holograms] Enabling Holograms v2.3.0-SNAPSHOT
+[12:02:32] [Server thread/INFO]: [Holograms] HologramEntityController set to: com.sainttx.holograms.nms.v1_8_R3.HologramEntityControllerImpl
+[12:02:32] [Server thread/INFO]: [AstatineAddons] Enabling AstatineAddons v2.9.3
+[12:02:32] [Server thread/INFO]: [AstatineAddons] Astatine.ast v2.9.3 - Loading utilies.
+[12:02:32] [Server thread/INFO]: [0;32;1m========================================[m
+[12:02:32] [Server thread/INFO]:  [m
+[12:02:32] [Server thread/INFO]: Lista de Mensagens Aumomaticas:[m
+[12:02:32] [Server thread/INFO]:  [m
+[12:02:32] [Server thread/INFO]: [0;30;1m[[0;32;1m1[0;30;1m] [mDesafie seus amigos com o [0;32;1m[21m/x1 desafiar! [m
+[12:02:32] [Server thread/INFO]: [0;30;1m[[0;32;1m2[0;30;1m] [mEncontrou Bugs? Reporte em [0;32;1m[21mforum.astatine.com.br [m
+[12:02:32] [Server thread/INFO]: [0;30;1m[[0;32;1m3[0;30;1m] [mUse [0;32;1m[21m/kits [0;37;1mpara abrir o menu com a lista de itens e kits! [m
+[12:02:32] [Server thread/INFO]: [0;30;1m[[0;32;1m4[0;30;1m] [muse [0;32;1m[21m/warps [0;37;1mpara ver a lista de warps disponíveis [m
+[12:02:32] [Server thread/INFO]: [0;30;1m[[0;32;1m5[0;30;1m] [mUse [0;32;1m/mudarsenha [senha_antiga] [nova] [nova] [0;37;1mPara trocar sua senha! [m
+[12:02:32] [Server thread/INFO]: [0;30;1m[[0;32;1m6[0;30;1m] [mAcesse https://goo.gl/Cu6IOX e veja as estatísticas individuais e os Top 5[m
+[12:02:32] [Server thread/INFO]:  [m
+[12:02:32] [Server thread/INFO]:  [0;37;22mIntervalo de repeticao da [0;32;1mChuva Acida[0;37;22m: [0;32;1mde 30 a 60[m
+[12:02:32] [Server thread/INFO]:  Proxima chuva acida em [0;32;1m37 [0;37;22mminuto(s)[m
+[12:02:32] [Server thread/INFO]:  [m
+[12:02:32] [Server thread/INFO]: [0;32;1m========================================[m
+[12:02:32] [Server thread/INFO]:  [m
+[12:02:32] [Server thread/INFO]:  [Astatine.ast] - By: jimmyfilips[m
+[12:02:32] [Server thread/INFO]:  PACK EXCLUSIVO - SERVIDOR ASTATINE:[m
+[12:02:32] [Server thread/INFO]:  Este pack contem os seguintes plugins:[m
+[12:02:32] [Server thread/INFO]:  - AcidRain - Addons[m
+[12:02:32] [Server thread/INFO]:  - AdminPack - Staff assistant[m
+[12:02:32] [Server thread/INFO]:  - Annoucement - Bloqueia mensagens de sistema[m
+[12:02:32] [Server thread/INFO]:  - APIVault - API Vault Register[m
+[12:02:32] [Server thread/INFO]:  - APITag - API para troca de tags[m
+[12:02:32] [Server thread/INFO]:  - APIJson - API para uso de mensagens JSON[m
+[12:02:32] [Server thread/INFO]:  - AutoMessage - Sistema de mensagens automática[m
+[12:02:32] [Server thread/INFO]:  - AutoRestart - Restarta o servidor automaticamente[m
+[12:02:32] [Server thread/INFO]:  - Chat Global/local - Com sistema JSON[m
+[12:02:32] [Server thread/INFO]:  - Chat Control - Controle de chat (cores, tags, etc)[m
+[12:02:32] [Server thread/INFO]:  - CMDAlias - Replace[m
+[12:02:32] [Server thread/INFO]:  - CMDAviso - Comando de Broadcast Message[m
+[12:02:32] [Server thread/INFO]:  - CMDChatClan - Sistema on/off (auto /.)[m
+[12:02:32] [Server thread/INFO]:  - CMDError - Error message[m
+[12:02:32] [Server thread/INFO]:  - CMDForce - gatilho para eventos automaticos[m
+[12:02:32] [Server thread/INFO]:  - CMDHelp - Player assistant[m
+[12:02:32] [Server thread/INFO]:  - CMDIp - Staff assistant[m
+[12:02:32] [Server thread/INFO]:  - CMDPos - Staff assistant[m
+[12:02:32] [Server thread/INFO]:  - CMDSpawn - Player CMD basic[m
+[12:02:32] [Server thread/INFO]:  - CMDStatus (Informações do Server) - Staff assistant[m
+[12:02:32] [Server thread/INFO]:  - CMDtp - Staff assistant[m
+[12:02:32] [Server thread/INFO]:  - CMDtpc - Staff assistant[m
+[12:02:32] [Server thread/INFO]:  - CraftEnchant - Sistema de melhoria de ferramentas[m
+[12:02:32] [Server thread/INFO]:  - Database SQLControl - Gerencia as conexões com tabelas[m
+[12:02:32] [Server thread/INFO]:  - DropEvent - AntiLag[m
+[12:02:32] [Server thread/INFO]:  - EffectsAreas - Addons[m
+[12:02:32] [Server thread/INFO]:  - EnderDragon - Cria EnderDragon ao reiniciar (+ExtraTag)[m
+[12:02:32] [Server thread/INFO]:  - ExtraTags - Tags de eventos (como a Dragon Killer)[m
+[12:02:32] [Server thread/INFO]:  - Healthbar - para mobs e players[m
+[12:02:32] [Server thread/INFO]:  - JoinMessage - Player assistant[m
+[12:02:32] [Server thread/INFO]:  - KitGui - Menu de kits[m
+[12:02:32] [Server thread/INFO]:  - LogToConsole - Players CMDs[m
+[12:02:32] [Server thread/INFO]:  - MobCatch - Versao propria[m
+[12:02:32] [Server thread/INFO]:  - MobControl - Natural Spawning[m
+[12:02:32] [Server thread/INFO]:  - PingList - PingList personalizado[m
+[12:02:32] [Server thread/INFO]:  - PlayerDeath - Sistema de teleporte + mensagem[m
+[12:02:32] [Server thread/INFO]:  - PreventsPack - Block, Craft and CMDs[m
+[12:02:32] [Server thread/INFO]:  - RealTimeSync - Time day control[m
+[12:02:32] [Server thread/INFO]:  - ServerMotd - Motd personalizado[m
+[12:02:32] [Server thread/INFO]:  - SignShop Admin - Shop Admin + sistema de desconto[m
+[12:02:32] [Server thread/INFO]:  - SignShop Player - Sistema de loja para players[m
+[12:02:32] [Server thread/INFO]:  - TPSCount - API Status Server[m
+[12:02:32] [Server thread/INFO]:  - WarpControl - controle de tempo e mobs[m
+[12:02:32] [Server thread/INFO]:  - WarpMina - gerador de minérios automatico[m
+[12:02:32] [Server thread/INFO]:  - WarpMobs - Spawn de mobs por ciclo[m
+[12:02:32] [Server thread/INFO]:  - WorldLimit - Borda com limite configurável[m
+[12:02:32] [Server thread/INFO]:  [m
+[12:02:32] [Server thread/INFO]: [0;32;1m========================================[m
+[12:02:32] [Server thread/ERROR]: [AstatineAddons] - Vault Carregado!
+[12:02:32] [Server thread/INFO]: [0;32;1m Usando SQL[m
+[12:02:32] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v12.8
+[12:02:32] [Server thread/INFO]: [0;32;1mDetected Minecraft [0;33;1mv1_8_R3[0;32;1m, using [0;33;1mUniversalSkinFactory[m
+[12:02:32] [Server thread/INFO]: [m
+[12:02:32] [Server thread/INFO]: [0;32;1m    +===============+[m
+[12:02:32] [Server thread/INFO]: [0;32;1m    | SkinsRestorer |[m
+[12:02:32] [Server thread/INFO]: [0;32;1m    +===============+[m
+[12:02:32] [Server thread/INFO]: [m
+[12:02:32] [Server thread/INFO]: [0;36;1m    Current version: [0;31;1m12.8[m
+[12:02:32] [Server thread/INFO]: [0;31;1m    A new version is available! Download it at:[m
+[12:02:32] [Server thread/INFO]: [0;33;1m    https://www.spigotmc.org/resources/skinsrestorer.2124/[m
+[12:02:32] [Server thread/INFO]: [m
+[12:02:32] [Server thread/INFO]: [ChestPlus] Enabling ChestPlus v1.0
+[12:02:32] [Server thread/INFO]: [AsyncWorldEdit] Enabling AsyncWorldEdit v2.2.2
+[12:02:32] [Server thread/INFO]: [AsyncWorldEdit] BlocksHub plugin not found.
+[12:02:32] [Server thread/INFO]: [AsyncWorldEdit] PlotMeFix set to class org.primesoft.asyncworldedit.plotme.NullFix
+[12:02:32] [Server thread/INFO]: [AsyncWorldEditInjector] New class factory set to: org.primesoft.asyncworldedit.injector.async.AsyncClassFactory
+[12:02:32] [Server thread/INFO]: [AsyncWorldEdit] You have an old version of the plugin. Your version: 2.2.2, available version: 2.3.2
+[12:02:32] [Server thread/INFO]: [AsyncWorldEdit] Enabled
+[12:02:32] [Server thread/INFO]: [VoxelSniper] Enabling VoxelSniper v5.171.0-SNAPSHOT
+[12:02:32] [Server thread/INFO]: [VoxelSniper] Registered 75 Sniper Brushes with 149 handles.
+[12:02:32] [Server thread/INFO]: [VoxelSniper] Registered Sniper Listener.
+[12:02:32] [Server thread/INFO]: [AstatineLogin] Enabling AstatineLogin v1.0
+[12:02:32] [Server thread/INFO]: [AstatineLogin] Conexao com MySQL sucedida!
+[12:02:32] [Server thread/INFO]: DEBUG: setDebug: JavaMail version 1.5.6
+[12:02:32] [Server thread/INFO]: [PermissionsEx] Enabling PermissionsEx v1.23.4
+[12:02:32] [Server thread/INFO]: [PermissionsEx] Initializing file backend
+[12:02:32] [Server thread/INFO]: [PermissionsEx] Permissions file successfully reloaded
+[12:02:32] [Server thread/INFO]: WEPIF: PermissionsEx detected! Using PermissionsEx for permissions.
+[12:02:32] [Server thread/INFO]: [Vault][Permission] PermissionsEx hooked.
+[12:02:32] [Server thread/INFO]: [Vault][Chat] PermissionsEx_Chat hooked.
+[12:02:32] [Server thread/INFO]: Essentials: Using PermissionsEx based permissions.
+[12:02:32] [Server thread/INFO]: [Eventos] Enabling Eventos v1.0
+[12:02:32] [Server thread/INFO]: [PagSeguro_API] Enabling PagSeguro_API v2.0.4
+[12:02:32] [Server thread/INFO]: [PagSeguro_API] Enabling PagSeguro API (V2.0.4) for Bukkit - Author: UOL.com.br & SubZero0
+[12:02:32] [Server thread/INFO]: [AstatineClans] Enabling AstatineClans v2.0
+[12:02:32] [Server thread/INFO]: [AstatineHome] Enabling AstatineHome v1.5.12
+[12:02:32] [Server thread/INFO]: [AstatineHome] New Home Limit Registered: {homeLimit:10, permissionLabel:homed.user}
+[12:02:32] [Server thread/INFO]: [AstatineHome] New Home Limit Registered: {homeLimit:100, permissionLabel:homed.vip}
+[12:02:32] [Server thread/INFO]: [AstatineHome] New Home Limit Registered: {homeLimit:*, permissionLabel:homed.infinite}
+[12:02:32] [Server thread/INFO]: [AstatineHome] New Delay Registered: {delay:3, permissionLabel:homed.user}
+[12:02:32] [Server thread/INFO]: [AstatineHome] New Delay Registered: {delay:*, permissionLabel:homed.vip}
+[12:02:32] [Server thread/INFO]: [AstatineHome] New Invite Limit Registered: {inviteLimit:10, permissionLabel:homed.vip}
+[12:02:32] [Server thread/INFO]: [AstatineHome] New Invite Limit Registered: {inviteLimit:*, permissionLabel:homed.infinite}
+[12:02:32] [Server thread/INFO]: [TitleManager] Enabling TitleManager v1.5.12
+[12:02:32] [Server thread/INFO]: [AstatineX1] Enabling AstatineX1 v1.0
+[12:02:32] [Server thread/INFO]: [AstatineX1] Conexao com MySQL sucedida!
+[12:02:32] [Server thread/INFO]: [VipZero] Enabling VipZero v1.2.2
+[12:02:32] [Server thread/INFO]: [VipZero] Enabling VipZero (V1.2.2) - Author: SubZero0
+[12:02:32] [Server thread/INFO]: [VipZero] Checking for updates...
+[12:02:33] [Server thread/INFO]: [VipZero] No updates found.
+[12:02:33] [Server thread/INFO]: [VipZero] Checking for old config file...
+[12:02:33] [Server thread/INFO]: [VipZero] No updates found.
+[12:02:33] [Server thread/INFO]: [VipZero] Checking for config file update...
+[12:02:33] [Server thread/INFO]: [VipZero] No updates found.
+[12:02:33] [Server thread/INFO]: [VipZero] Checking for language file update...
+[12:02:33] [Server thread/INFO]: [VipZero] No updates found.
+[12:02:33] [Server thread/INFO]: [VipZero] Connected to MySQL server!
+[12:02:33] [Server thread/INFO]: [VipZero] Hooked to PermissionsEx.
+[12:02:33] [Server thread/INFO]: [VipZero] Hooked to Vault (Economy).
+[12:02:33] [Server thread/INFO]: [VipZero] PagSeguro enabled!
+[12:02:33] [Server thread/INFO]: [VipZero] PayPal enabled!
+[12:02:33] [Server thread/INFO]: [Citizens] Enabling Citizens v2.0.16-SNAPSHOT (build 1267)
+[12:02:33] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[12:02:33] [Server thread/INFO]: Done (5.468s)! For help, type "help" or "?"
+[12:02:33] [Craft Scheduler Thread - 9/INFO]: [Metrics] Server returned HTTP response code: 500 for URL: http://mcstats.org/report/AsyncWorldEdit
+[12:02:33] [Server thread/INFO]: [Citizens] Loaded 35 NPCs.
+[12:02:33] [Craft Scheduler Thread - 2/INFO]: [Vault] Checking for Updates ... 
+[12:02:33] [Craft Scheduler Thread - 2/INFO]: [Vault] No new version available
+[12:02:43] [Server thread/INFO]: [0;30;1m[21m[[0;33;22m![0;30;1m[21m] [mDesafie seus amigos com o [0;32;1m[21m/x1 desafiar! [m
+[12:03:47] [Netty Epoll Server IO #1/WARN]: [ProtocolLib] [WrappedGameProfile] Plugin AstatineAddons created a profile with 'id1' as an UUID.
+[12:04:43] [Server thread/INFO]: [0;30;1m[21m[[0;33;22m![0;30;1m[21m] [mEncontrou Bugs? Reporte em [0;32;1m[21mforum.astatine.com.br [m
+[12:06:43] [Server thread/INFO]: [0;30;1m[21m[[0;33;22m![0;30;1m[21m] [mUse [0;32;1m[21m/kits [0;37;1mpara abrir o menu com a lista de itens e kits! [m
+[12:08:43] [Server thread/INFO]: [0;30;1m[21m[[0;33;22m![0;30;1m[21m] [muse [0;32;1m[21m/warps [0;37;1mpara ver a lista de warps disponíveis [m
+[12:10:03] [Server thread/INFO]: [0;37;22m[21m[[0;33;22m[21mAstatine[0;37;22m[21m] [0;31;1mRemovendo itens do chao em [0;37;22m10 [0;31;1msegundos![m
+[12:10:43] [Server thread/INFO]: [0;30;1m[21m[[0;33;22m![0;30;1m[21m] [mUse [0;32;1m/mudarsenha [senha_antiga] [nova] [nova] [0;37;1mPara trocar sua senha! [m
+[12:12:43] [Server thread/INFO]: [0;30;1m[21m[[0;33;22m![0;30;1m[21m] [mAcesse https://goo.gl/Cu6IOX e veja as estatísticas individuais e os Top 5[m
+[12:14:43] [Server thread/INFO]: [0;30;1m[21m[[0;33;22m![0;30;1m[21m] [mDesafie seus amigos com o [0;32;1m[21m/x1 desafiar! [m
+[12:16:43] [Server thread/INFO]: [0;30;1m[21m[[0;33;22m![0;30;1m[21m] [mEncontrou Bugs? Reporte em [0;32;1m[21mforum.astatine.com.br [m
+[12:17:43] [Server thread/INFO]: [0;37;22m[21m[[0;33;22m[21mAstatine[0;37;22m[21m] [0;31;1mRemovendo itens do chao em [0;37;22m10 [0;31;1msegundos![m
+[12:18:43] [Server thread/INFO]: [0;30;1m[21m[[0;33;22m![0;30;1m[21m] [mUse [0;32;1m[21m/kits [0;37;1mpara abrir o menu com a lista de itens e kits! [m
+[12:20:43] [Server thread/INFO]: [0;30;1m[21m[[0;33;22m![0;30;1m[21m] [muse [0;32;1m[21m/warps [0;37;1mpara ver a lista de warps disponíveis [m
+[12:22:43] [Server thread/INFO]: [0;30;1m[21m[[0;33;22m![0;30;1m[21m] [mUse [0;32;1m/mudarsenha [senha_antiga] [nova] [nova] [0;37;1mPara trocar sua senha! [m
+[12:24:43] [Server thread/INFO]: [0;30;1m[21m[[0;33;22m![0;30;1m[21m] [mAcesse https://goo.gl/Cu6IOX e veja as estatísticas individuais e os Top 5[m
+[12:25:23] [Server thread/INFO]: [0;37;22m[21m[[0;33;22m[21mAstatine[0;37;22m[21m] [0;31;1mRemovendo itens do chao em [0;37;22m10 [0;31;1msegundos![m
+[12:26:43] [Server thread/INFO]: [0;30;1m[21m[[0;33;22m![0;30;1m[21m] [mDesafie seus amigos com o [0;32;1m[21m/x1 desafiar! [m
+[12:28:43] [Server thread/INFO]: [0;30;1m[21m[[0;33;22m![0;30;1m[21m] [mEncontrou Bugs? Reporte em [0;32;1m[21mforum.astatine.com.br [m
+[12:30:43] [Server thread/INFO]: [0;30;1m[21m[[0;33;22m![0;30;1m[21m] [mUse [0;32;1m[21m/kits [0;37;1mpara abrir o menu com a lista de itens e kits! [m
+[12:32:43] [Server thread/INFO]: [0;30;1m[21m[[0;33;22m![0;30;1m[21m] [muse [0;32;1m[21m/warps [0;37;1mpara ver a lista de warps disponíveis [m
+[12:33:03] [Server thread/INFO]: [0;37;22m[21m[[0;33;22m[21mAstatine[0;37;22m[21m] [0;31;1mRemovendo itens do chao em [0;37;22m10 [0;31;1msegundos![m
+[12:34:43] [Server thread/INFO]: [0;30;1m[21m[[0;33;22m![0;30;1m[21m] [mUse [0;32;1m/mudarsenha [senha_antiga] [nova] [nova] [0;37;1mPara trocar sua senha! [m
+[12:36:43] [Server thread/INFO]: [0;30;1m[21m[[0;33;22m![0;30;1m[21m] [mAcesse https://goo.gl/Cu6IOX e veja as estatísticas individuais e os Top 5[m
+[12:38:43] [Server thread/INFO]: [0;30;1m[21m[[0;33;22m![0;30;1m[21m] [mDesafie seus amigos com o [0;32;1m[21m/x1 desafiar! [m
+[12:39:33] [Server thread/INFO]: [CHUVA ACIDA] Chuva Acida ativada[m
+[12:39:33] [Server thread/INFO]:  Proxima chuva acida em [0;32;1m43 [0;37;22mminuto(s)[m
+[12:39:43] [Server thread/INFO]: [0;31;22m[21mA chuva ácida começou![m
+[12:40:13] [Server thread/INFO]: [0;32;22m[21mA chuva ácida acabou[m
+[12:40:43] [Server thread/INFO]: [0;37;22m[21m[[0;33;22m[21mAstatine[0;37;22m[21m] [0;31;1mRemovendo itens do chao em [0;37;22m10 [0;31;1msegundos![m
+[12:40:43] [Server thread/INFO]: [0;30;1m[21m[[0;33;22m![0;30;1m[21m] [mEncontrou Bugs? Reporte em [0;32;1m[21mforum.astatine.com.br [m
+[12:42:43] [Server thread/INFO]: [0;30;1m[21m[[0;33;22m![0;30;1m[21m] [mUse [0;32;1m[21m/kits [0;37;1mpara abrir o menu com a lista de itens e kits! [m
+[12:44:43] [Server thread/INFO]: [0;30;1m[21m[[0;33;22m![0;30;1m[21m] [muse [0;32;1m[21m/warps [0;37;1mpara ver a lista de warps disponíveis [m
+[12:46:43] [Server thread/INFO]: [0;30;1m[21m[[0;33;22m![0;30;1m[21m] [mUse [0;32;1m/mudarsenha [senha_antiga] [nova] [nova] [0;37;1mPara trocar sua senha! [m
+[12:48:23] [Server thread/INFO]: [0;37;22m[21m[[0;33;22m[21mAstatine[0;37;22m[21m] [0;31;1mRemovendo itens do chao em [0;37;22m10 [0;31;1msegundos![m
+[12:48:43] [Server thread/INFO]: [0;30;1m[21m[[0;33;22m![0;30;1m[21m] [mAcesse https://goo.gl/Cu6IOX e veja as estatísticas individuais e os Top 5[m
+[12:50:43] [Server thread/INFO]: [0;30;1m[21m[[0;33;22m![0;30;1m[21m] [mDesafie seus amigos com o [0;32;1m[21m/x1 desafiar! [m
+[12:52:43] [Server thread/INFO]: [0;30;1m[21m[[0;33;22m![0;30;1m[21m] [mEncontrou Bugs? Reporte em [0;32;1m[21mforum.astatine.com.br [m
+[12:54:43] [Server thread/INFO]: [0;30;1m[21m[[0;33;22m![0;30;1m[21m] [mUse [0;32;1m[21m/kits [0;37;1mpara abrir o menu com a lista de itens e kits! [m
+[12:55:54] [Server thread/INFO]: [0;33;1m[ProtocolLib] The updater found an update: 4.2.0 (Running 3.6.5). Download at https://www.spigotmc.org/resources/protocollib.1997/[m
+[12:56:03] [Server thread/INFO]: [0;37;22m[21m[[0;33;22m[21mAstatine[0;37;22m[21m] [0;31;1mRemovendo itens do chao em [0;37;22m10 [0;31;1msegundos![m
+[12:56:43] [Server thread/INFO]: [0;30;1m[21m[[0;33;22m![0;30;1m[21m] [muse [0;32;1m[21m/warps [0;37;1mpara ver a lista de warps disponíveis [m
+[12:58:43] [Server thread/INFO]: [0;30;1m[21m[[0;33;22m![0;30;1m[21m] [mUse [0;32;1m/mudarsenha [senha_antiga] [nova] [nova] [0;37;1mPara trocar sua senha! [m
+[13:00:43] [Server thread/INFO]: [0;30;1m[21m[[0;33;22m![0;30;1m[21m] [mAcesse https://goo.gl/Cu6IOX e veja as estatísticas individuais e os Top 5[m
+[13:02:33] [Craft Scheduler Thread - 43/INFO]: [Metrics] Connection reset
+[13:02:43] [Server thread/INFO]: [0;30;1m[21m[[0;33;22m![0;30;1m[21m] [mDesafie seus amigos com o [0;32;1m[21m/x1 desafiar! [m
+[13:03:43] [Server thread/INFO]: [0;37;22m[21m[[0;33;22m[21mAstatine[0;37;22m[21m] [0;31;1mRemovendo itens do chao em [0;37;22m10 [0;31;1msegundos![m
+[13:03:50] [Thread-22/INFO]: Disconnecting com.mojang.authlib.GameProfile@30f8fabb[id=6e960aa1-596d-3e31-8adb-9ab11c34b43b,name=KillaFonicGirl,properties={},legacy=false] (/188.26.201.100:61980): §cVocê precisa registrar-se no fórum para logar!
+§eFórum: §fforum.astatine.com.br
+§cLembre-se o nick precisa ser igual!
+[13:03:50] [Server thread/INFO]: com.mojang.authlib.GameProfile@30f8fabb[id=6e960aa1-596d-3e31-8adb-9ab11c34b43b,name=KillaFonicGirl,properties={},legacy=false] (/188.26.201.100:61980) lost connection: §cVocê precisa registrar-se no fórum para logar!
+§eFórum: §fforum.astatine.com.br
+§cLembre-se o nick precisa ser igual!
+[13:03:52] [Netty Epoll Server IO #2/WARN]: [ProtocolLib] [WrappedGameProfile] Plugin AstatineAddons created a profile with 'id1' as an UUID.
+[13:04:43] [Server thread/INFO]: [0;30;1m[21m[[0;33;22m![0;30;1m[21m] [mEncontrou Bugs? Reporte em [0;32;1m[21mforum.astatine.com.br [m
+[13:06:43] [Server thread/INFO]: [0;30;1m[21m[[0;33;22m![0;30;1m[21m] [mUse [0;32;1m[21m/kits [0;37;1mpara abrir o menu com a lista de itens e kits! [m
+[13:08:43] [Server thread/INFO]: [0;30;1m[21m[[0;33;22m![0;30;1m[21m] [muse [0;32;1m[21m/warps [0;37;1mpara ver a lista de warps disponíveis [m
+[13:10:43] [Server thread/INFO]: [0;30;1m[21m[[0;33;22m![0;30;1m[21m] [mUse [0;32;1m/mudarsenha [senha_antiga] [nova] [nova] [0;37;1mPara trocar sua senha! [m
+[13:11:23] [Server thread/INFO]: [0;37;22m[21m[[0;33;22m[21mAstatine[0;37;22m[21m] [0;31;1mRemovendo itens do chao em [0;37;22m10 [0;31;1msegundos![m
+[13:12:33] [Craft Scheduler Thread - 46/INFO]: [Metrics] Connection reset
+[13:12:43] [Server thread/INFO]: [0;30;1m[21m[[0;33;22m![0;30;1m[21m] [mAcesse https://goo.gl/Cu6IOX e veja as estatísticas individuais e os Top 5[m
+[13:14:43] [Server thread/INFO]: [0;30;1m[21m[[0;33;22m![0;30;1m[21m] [mDesafie seus amigos com o [0;32;1m[21m/x1 desafiar! [m
+[13:16:43] [Server thread/INFO]: [0;30;1m[21m[[0;33;22m![0;30;1m[21m] [mEncontrou Bugs? Reporte em [0;32;1m[21mforum.astatine.com.br [m
+[13:18:43] [Server thread/INFO]: [0;30;1m[21m[[0;33;22m![0;30;1m[21m] [mUse [0;32;1m[21m/kits [0;37;1mpara abrir o menu com a lista de itens e kits! [m
+[13:19:03] [Server thread/INFO]: [0;37;22m[21m[[0;33;22m[21mAstatine[0;37;22m[21m] [0;31;1mRemovendo itens do chao em [0;37;22m10 [0;31;1msegundos![m
+[13:20:43] [Server thread/INFO]: [0;30;1m[21m[[0;33;22m![0;30;1m[21m] [muse [0;32;1m[21m/warps [0;37;1mpara ver a lista de warps disponíveis [m
+[13:22:33] [Server thread/INFO]: [CHUVA ACIDA] Chuva Acida ativada[m
+[13:22:33] [Server thread/INFO]:  Proxima chuva acida em [0;32;1m35 [0;37;22mminuto(s)[m
+[13:22:36] [Craft Scheduler Thread - 46/INFO]: [Metrics] Unexpected end of file from server
+[13:22:43] [Server thread/INFO]: [0;31;22m[21mA chuva ácida começou![m
+[13:22:43] [Server thread/INFO]: [0;30;1m[21m[[0;33;22m![0;30;1m[21m] [mUse [0;32;1m/mudarsenha [senha_antiga] [nova] [nova] [0;37;1mPara trocar sua senha! [m
+[13:23:13] [Server thread/INFO]: [0;32;22m[21mA chuva ácida acabou[m
+[13:24:43] [Server thread/INFO]: [0;30;1m[21m[[0;33;22m![0;30;1m[21m] [mAcesse https://goo.gl/Cu6IOX e veja as estatísticas individuais e os Top 5[m
+[13:26:43] [Server thread/INFO]: [0;30;1m[21m[[0;33;22m![0;30;1m[21m] [mDesafie seus amigos com o [0;32;1m[21m/x1 desafiar! [m
+[13:26:43] [Server thread/INFO]: [0;37;22m[21m[[0;33;22m[21mAstatine[0;37;22m[21m] [0;31;1mRemovendo itens do chao em [0;37;22m10 [0;31;1msegundos![m
+[13:27:35] [Thread-23/INFO]: UUID of player zombie_slayer808 is f7232bb0-36b8-3212-adcc-9e77e7ab2c2b
+[13:27:35] [Server thread/INFO]: zombie_slayer808[189.55.72.224/189.55.72.224:55065] logged in with entity id 1931 at ([VoidWorld]1600.3734680619978, 50.0, -15809.555508060697)
+[13:27:47] [Server thread/INFO]: zombie_slayer808 issued server command: /login giovana123
+[13:28:43] [Server thread/INFO]: [0;30;1m[21m[[0;33;22m![0;30;1m[21m] [mEncontrou Bugs? Reporte em [0;32;1m[21mforum.astatine.com.br [m
+[13:30:43] [Server thread/INFO]: [0;30;1m[21m[[0;33;22m![0;30;1m[21m] [mUse [0;32;1m[21m/kits [0;37;1mpara abrir o menu com a lista de itens e kits! [m
+[13:31:51] [Thread-25/INFO]: Disconnecting com.mojang.authlib.GameProfile@6edbed6a[id=5b9c141b-bae1-332e-b371-3928bb7ee132,name=nite200501,properties={},legacy=false] (/201.54.174.2:27535): §cVocê precisa registrar-se no fórum para logar!
+§eFórum: §fforum.astatine.com.br
+§cLembre-se o nick precisa ser igual!
+[13:31:51] [Server thread/INFO]: com.mojang.authlib.GameProfile@6edbed6a[id=5b9c141b-bae1-332e-b371-3928bb7ee132,name=nite200501,properties={},legacy=false] (/201.54.174.2:27535) lost connection: §cVocê precisa registrar-se no fórum para logar!
+§eFórum: §fforum.astatine.com.br
+§cLembre-se o nick precisa ser igual!
+[13:32:33] [Craft Scheduler Thread - 69/INFO]: [Metrics] Connection reset
+[13:32:43] [Server thread/INFO]: [0;30;1m[21m[[0;33;22m![0;30;1m[21m] [muse [0;32;1m[21m/warps [0;37;1mpara ver a lista de warps disponíveis [m
+[13:34:23] [Server thread/INFO]: [0;37;22m[21m[[0;33;22m[21mAstatine[0;37;22m[21m] [0;31;1mRemovendo itens do chao em [0;37;22m10 [0;31;1msegundos![m
+[13:34:43] [Server thread/INFO]: [0;30;1m[21m[[0;33;22m![0;30;1m[21m] [mUse [0;32;1m/mudarsenha [senha_antiga] [nova] [nova] [0;37;1mPara trocar sua senha! [m
+[13:36:18] [Thread-27/INFO]: UUID of player Lekator is 3d9d32e1-bc77-33e7-bf7b-0de2e6c6067d
+[13:36:18] [Server thread/INFO]: Lekator[179.98.13.202/179.98.13.202:55739] logged in with entity id 2651 at ([VoidWorld]1397.7320612455228, 63.0, -16402.945537726468)
+[13:36:25] [Server thread/INFO]: Lekator issued server command: /login meguxa123
+[13:36:32] [Server thread/WARN]: Lekator moved wrongly!
+[13:36:34] [Server thread/WARN]: Lekator moved wrongly!
+[13:36:43] [Server thread/INFO]: [0;30;1m[21m[[0;33;22m![0;30;1m[21m] [mAcesse https://goo.gl/Cu6IOX e veja as estatísticas individuais e os Top 5[m
+[13:36:51] [Server thread/INFO]: zombie_slayer808 issued server command: /home secretaria
+[13:36:54] [Server thread/INFO]: Player zombie_slayer808 teleporting to home secretaria (1391.5, 63.5, -16399.5) of player zombie_slayer808
+[13:37:08] [Server thread/WARN]: Lekator moved wrongly!
+[13:37:22] [Server thread/WARN]: Lekator moved wrongly!
+[13:37:33] [Server thread/INFO]: zombie_slayer808 issued server command: /warp mob
+[13:37:37] [Server thread/INFO]: zombie_slayer808 issued server command: /warp mobs
+[13:37:51] [Server thread/INFO]: Lekator issued server command: /warp mobs
+[13:38:43] [Server thread/INFO]: [0;30;1m[21m[[0;33;22m![0;30;1m[21m] [mDesafie seus amigos com o [0;32;1m[21m/x1 desafiar! [m
+[13:39:47] [Server thread/INFO]: Lekator lost connection: Timed out
+[13:40:07] [Thread-29/INFO]: UUID of player Lekator is 3d9d32e1-bc77-33e7-bf7b-0de2e6c6067d
+[13:40:07] [Server thread/INFO]: Lekator[179.98.13.202/179.98.13.202:55790] logged in with entity id 20480 at ([VoidMobs]20.069781429833764, 42.74918707874468, -20.09788931514718)
+[13:40:13] [Server thread/WARN]: Lekator was kicked for floating too long!
+[13:40:13] [Server thread/INFO]: Lekator lost connection: Flying is not enabled on this server
+[13:40:13] [Server thread/WARN]: handleDisconnection() called twice
+[13:40:21] [Thread-31/INFO]: UUID of player Lekator is 3d9d32e1-bc77-33e7-bf7b-0de2e6c6067d
+[13:40:21] [Server thread/INFO]: Lekator[179.98.13.202/179.98.13.202:55850] logged in with entity id 22193 at ([VoidMobs]20.069781429833764, 42.74918707874468, -20.09788931514718)
+[13:40:26] [Server thread/WARN]: Lekator was kicked for floating too long!
+[13:40:26] [Server thread/INFO]: Lekator lost connection: Flying is not enabled on this server
+[13:40:26] [Server thread/WARN]: handleDisconnection() called twice
+[13:40:30] [Thread-33/INFO]: UUID of player Lekator is 3d9d32e1-bc77-33e7-bf7b-0de2e6c6067d
+[13:40:30] [Server thread/INFO]: Lekator[179.98.13.202/179.98.13.202:55876] logged in with entity id 23292 at ([VoidMobs]20.069781429833764, 42.74918707874468, -20.09788931514718)
+[13:40:35] [Server thread/INFO]: Lekator issued server command: /login
+[13:40:35] [Server thread/WARN]: Lekator was kicked for floating too long!
+[13:40:35] [Server thread/INFO]: Lekator lost connection: Flying is not enabled on this server
+[13:40:35] [Server thread/WARN]: handleDisconnection() called twice
+[13:40:37] [Server thread/WARN]: handleDisconnection() called twice
+[13:40:38] [Thread-35/INFO]: UUID of player Lekator is 3d9d32e1-bc77-33e7-bf7b-0de2e6c6067d
+[13:40:39] [Server thread/INFO]: Lekator[179.98.13.202/179.98.13.202:55920] logged in with entity id 24485 at ([VoidMobs]20.069781429833764, 42.74918707874468, -20.09788931514718)
+[13:40:43] [Server thread/INFO]: Lekator issued server command: /login meguxa123
+[13:40:43] [Server thread/INFO]: [0;30;1m[21m[[0;33;22m![0;30;1m[21m] [mEncontrou Bugs? Reporte em [0;32;1m[21mforum.astatine.com.br [m
+[13:41:58] [Server thread/INFO]: Lekator lost connection: Timed out
+[13:42:03] [Server thread/INFO]: [0;37;22m[21m[[0;33;22m[21mAstatine[0;37;22m[21m] [0;31;1mRemovendo itens do chao em [0;37;22m10 [0;31;1msegundos![m
+[13:42:33] [Craft Scheduler Thread - 78/INFO]: [Metrics] Connection reset
+[13:42:43] [Server thread/INFO]: [0;30;1m[21m[[0;33;22m![0;30;1m[21m] [mUse [0;32;1m[21m/kits [0;37;1mpara abrir o menu com a lista de itens e kits! [m
+[13:42:56] [Thread-38/INFO]: UUID of player Lekator is 3d9d32e1-bc77-33e7-bf7b-0de2e6c6067d
+[13:42:56] [Server thread/INFO]: Lekator[179.98.13.202/179.98.13.202:56029] logged in with entity id 41130 at ([VoidMobs]17.292444464361544, 44.0, -23.106940873672702)
+[13:43:13] [Server thread/INFO]: Lekator issued server command: /login meguxa123
+[13:43:31] [Thread-40/INFO]: Disconnecting com.mojang.authlib.GameProfile@5f853673[id=3d9d32e1-bc77-33e7-bf7b-0de2e6c6067d,name=Lekator,properties={},legacy=false] (/179.98.13.202:56044): §cEssa conta já se encontra logada!
+[13:43:31] [Server thread/INFO]: com.mojang.authlib.GameProfile@5f853673[id=3d9d32e1-bc77-33e7-bf7b-0de2e6c6067d,name=Lekator,properties={},legacy=false] (/179.98.13.202:56044) lost connection: §cEssa conta já se encontra logada!
+[13:43:35] [Thread-41/INFO]: Disconnecting com.mojang.authlib.GameProfile@427fdbf9[id=3d9d32e1-bc77-33e7-bf7b-0de2e6c6067d,name=Lekator,properties={},legacy=false] (/179.98.13.202:56054): §cEssa conta já se encontra logada!
+[13:43:35] [Server thread/INFO]: com.mojang.authlib.GameProfile@427fdbf9[id=3d9d32e1-bc77-33e7-bf7b-0de2e6c6067d,name=Lekator,properties={},legacy=false] (/179.98.13.202:56054) lost connection: §cEssa conta já se encontra logada!
+[13:43:41] [Thread-42/INFO]: Disconnecting com.mojang.authlib.GameProfile@5362f4c5[id=3d9d32e1-bc77-33e7-bf7b-0de2e6c6067d,name=Lekator,properties={},legacy=false] (/179.98.13.202:56070): §cEssa conta já se encontra logada!
+[13:43:41] [Server thread/INFO]: com.mojang.authlib.GameProfile@5362f4c5[id=3d9d32e1-bc77-33e7-bf7b-0de2e6c6067d,name=Lekator,properties={},legacy=false] (/179.98.13.202:56070) lost connection: §cEssa conta já se encontra logada!
+[13:43:43] [Server thread/INFO]: Lekator lost connection: Timed out
+[13:43:46] [Thread-43/INFO]: UUID of player Lekator is 3d9d32e1-bc77-33e7-bf7b-0de2e6c6067d
+[13:43:46] [Server thread/INFO]: Lekator[179.98.13.202/179.98.13.202:56092] logged in with entity id 48778 at ([VoidMobs]17.292444464361544, 44.0, -23.106940873672702)
+[13:43:51] [Server thread/INFO]: Lekator issued server command: /login meguxa123
+[13:44:43] [Server thread/INFO]: [0;30;1m[21m[[0;33;22m![0;30;1m[21m] [muse [0;32;1m[21m/warps [0;37;1mpara ver a lista de warps disponíveis [m
+[13:46:43] [Server thread/INFO]: [0;30;1m[21m[[0;33;22m![0;30;1m[21m] [mUse [0;32;1m/mudarsenha [senha_antiga] [nova] [nova] [0;37;1mPara trocar sua senha! [m
+[13:47:48] [Server thread/INFO]: Lekator lost connection: Timed out
+[13:48:04] [Thread-45/INFO]: UUID of player Lekator is 3d9d32e1-bc77-33e7-bf7b-0de2e6c6067d
+[13:48:04] [Server thread/INFO]: Lekator[179.98.13.202/179.98.13.202:56218] logged in with entity id 80715 at ([VoidMobs]17.14360115049699, 44.0, -22.238310817551476)
+[13:48:07] [Server thread/INFO]: Lekator issued server command: /login meguxa123
+[13:48:43] [Server thread/INFO]: [0;30;1m[21m[[0;33;22m![0;30;1m[21m] [mAcesse https://goo.gl/Cu6IOX e veja as estatísticas individuais e os Top 5[m
+[13:49:43] [Server thread/INFO]: [0;37;22m[21m[[0;33;22m[21mAstatine[0;37;22m[21m] [0;31;1mRemovendo itens do chao em [0;37;22m10 [0;31;1msegundos![m
+[13:50:43] [Server thread/INFO]: [0;30;1m[21m[[0;33;22m![0;30;1m[21m] [mDesafie seus amigos com o [0;32;1m[21m/x1 desafiar! [m
+[13:51:56] [Server thread/INFO]: Lekator lost connection: Disconnected
+[13:52:05] [Thread-47/INFO]: UUID of player Lekator is 3d9d32e1-bc77-33e7-bf7b-0de2e6c6067d
+[13:52:06] [Server thread/INFO]: Lekator[179.98.13.202/179.98.13.202:56258] logged in with entity id 115474 at ([VoidMobs]30.444577198161145, 39.0, -15.589061393242089)
+[13:52:08] [Server thread/INFO]: Lekator issued server command: /login meguxa123
+[13:52:37] [Craft Scheduler Thread - 92/INFO]: [Metrics] Unexpected end of file from server
+[13:52:43] [Server thread/INFO]: [0;30;1m[21m[[0;33;22m![0;30;1m[21m] [mEncontrou Bugs? Reporte em [0;32;1m[21mforum.astatine.com.br [m
+[13:54:43] [Server thread/INFO]: [0;30;1m[21m[[0;33;22m![0;30;1m[21m] [mUse [0;32;1m[21m/kits [0;37;1mpara abrir o menu com a lista de itens e kits! [m
+[13:55:49] [Thread-51/INFO]: Disconnecting com.mojang.authlib.GameProfile@6a50e179[id=3d9d32e1-bc77-33e7-bf7b-0de2e6c6067d,name=Lekator,properties={},legacy=false] (/179.98.13.202:56303): §cEssa conta já se encontra logada!
+[13:55:49] [Server thread/INFO]: com.mojang.authlib.GameProfile@6a50e179[id=3d9d32e1-bc77-33e7-bf7b-0de2e6c6067d,name=Lekator,properties={},legacy=false] (/179.98.13.202:56303) lost connection: §cEssa conta já se encontra logada!
+[13:55:54] [Server thread/INFO]: Lekator lost connection: Timed out
+[13:55:59] [Thread-52/INFO]: UUID of player Lekator is 3d9d32e1-bc77-33e7-bf7b-0de2e6c6067d
+[13:55:59] [Server thread/INFO]: Lekator[179.98.13.202/179.98.13.202:56304] logged in with entity id 147683 at ([VoidMobs]-16.848198284210554, 63.24918707874468, 15.183663519223028)
+[13:56:01] [Server thread/INFO]: Lekator issued server command: /login meguxa123
+[13:56:43] [Server thread/INFO]: [0;30;1m[21m[[0;33;22m![0;30;1m[21m] [muse [0;32;1m[21m/warps [0;37;1mpara ver a lista de warps disponíveis [m
+[13:57:23] [Server thread/INFO]: [0;37;22m[21m[[0;33;22m[21mAstatine[0;37;22m[21m] [0;31;1mRemovendo itens do chao em [0;37;22m10 [0;31;1msegundos![m
+[13:57:33] [Server thread/INFO]: [CHUVA ACIDA] Chuva Acida ativada[m
+[13:57:33] [Server thread/INFO]:  Proxima chuva acida em [0;32;1m33 [0;37;22mminuto(s)[m
+[13:57:43] [Server thread/INFO]: [0;31;22m[21mA chuva ácida começou![m
+[13:58:13] [Server thread/INFO]: [0;32;22m[21mA chuva ácida acabou[m
+[13:58:40] [Server thread/INFO]: Lekator issued server command: /LUZ
+[13:58:43] [Server thread/INFO]: [0;30;1m[21m[[0;33;22m![0;30;1m[21m] [mUse [0;32;1m/mudarsenha [senha_antiga] [nova] [nova] [0;37;1mPara trocar sua senha! [m
+[14:00:42] [Server thread/INFO]: Lekator issued server command: /HOME
+[14:00:43] [Server thread/INFO]: [0;30;1m[21m[[0;33;22m![0;30;1m[21m] [mAcesse https://goo.gl/Cu6IOX e veja as estatísticas individuais e os Top 5[m
+[14:00:45] [Server thread/INFO]: Player Lekator teleporting to home home (1595.5, 57.5, -15798.5) of player Lekator
+[14:01:25] [Server thread/INFO]: zombie_slayer808 issued server command: /home secretaria
+[14:01:28] [Server thread/INFO]: Player zombie_slayer808 teleporting to home secretaria (1391.5, 63.5, -16399.5) of player zombie_slayer808
+[14:02:20] [Server thread/INFO]: zombie_slayer808 issued server command: /home quarto
+[14:02:20] [Server thread/INFO]: Lekator issued server command: /HOME AP
+[14:02:22] [Server thread/INFO]: Player zombie_slayer808 teleporting to home quarto (1600.5, 50.5, -15812.5) of player zombie_slayer808
+[14:02:23] [Server thread/INFO]: Player Lekator teleporting to home ap (1392.5, 88.5, -16403.5) of player Lekator
+[14:02:34] [Craft Scheduler Thread - 93/INFO]: [Metrics] Unexpected end of file from server
+[14:02:44] [Server thread/INFO]: [0;30;1m[21m[[0;33;22m![0;30;1m[21m] [mDesafie seus amigos com o [0;32;1m[21m/x1 desafiar! [m
+[14:04:38] [Server thread/INFO]: zombie_slayer808 issued server command: /home secretaria
+[14:04:41] [Server thread/INFO]: Player zombie_slayer808 teleporting to home secretaria (1391.5, 63.5, -16399.5) of player zombie_slayer808
+[14:04:44] [Server thread/INFO]: [0;30;1m[21m[[0;33;22m![0;30;1m[21m] [mEncontrou Bugs? Reporte em [0;32;1m[21mforum.astatine.com.br [m
+[14:05:04] [Server thread/INFO]: [0;37;22m[21m[[0;33;22m[21mAstatine[0;37;22m[21m] [0;31;1mRemovendo itens do chao em [0;37;22m10 [0;31;1msegundos![m
+[14:05:30] [Netty Epoll Server IO #0/WARN]: [ProtocolLib] [WrappedGameProfile] Plugin AstatineAddons created a profile with 'id1' as an UUID.
+[14:06:44] [Server thread/INFO]: [0;30;1m[21m[[0;33;22m![0;30;1m[21m] [mUse [0;32;1m[21m/kits [0;37;1mpara abrir o menu com a lista de itens e kits! [m
+[14:08:44] [Server thread/INFO]: [0;30;1m[21m[[0;33;22m![0;30;1m[21m] [muse [0;32;1m[21m/warps [0;37;1mpara ver a lista de warps disponíveis [m
+[14:10:44] [Server thread/INFO]: [0;30;1m[21m[[0;33;22m![0;30;1m[21m] [mUse [0;32;1m/mudarsenha [senha_antiga] [nova] [nova] [0;37;1mPara trocar sua senha! [m
+[14:12:34] [Craft Scheduler Thread - 104/INFO]: [Metrics] Connection reset
+[14:12:44] [Server thread/INFO]: [0;30;1m[21m[[0;33;22m![0;30;1m[21m] [mAcesse https://goo.gl/Cu6IOX e veja as estatísticas individuais e os Top 5[m
+[14:12:44] [Server thread/INFO]: [0;37;22m[21m[[0;33;22m[21mAstatine[0;37;22m[21m] [0;31;1mRemovendo itens do chao em [0;37;22m10 [0;31;1msegundos![m
+[14:12:49] [Server thread/INFO]: zombie_slayer808 issued server command: /call lekator
+[14:12:51] [Server thread/INFO]: Lekator issued server command: /bring zombie_slayer808
+[14:14:02] [Server thread/INFO]: zombie_slayer808 issued server command: /home secretaria
+[14:14:05] [Server thread/INFO]: Player zombie_slayer808 teleporting to home secretaria (1391.5, 63.5, -16399.5) of player zombie_slayer808
+[14:14:13] [Server thread/INFO]: Lekator issued server command: /HOME
+[14:14:16] [Server thread/INFO]: Player Lekator teleporting to home home (1595.5, 57.5, -15798.5) of player Lekator
+[14:14:21] [Server thread/INFO]: zombie_slayer808 issued server command: /home quarto
+[14:14:24] [Server thread/INFO]: Player zombie_slayer808 teleporting to home quarto (1600.5, 50.5, -15812.5) of player zombie_slayer808
+[14:14:44] [Server thread/INFO]: [0;30;1m[21m[[0;33;22m![0;30;1m[21m] [mDesafie seus amigos com o [0;32;1m[21m/x1 desafiar! [m
+[14:15:14] [Thread-59/INFO]: Disconnecting com.mojang.authlib.GameProfile@7f921fab[id=3d9d32e1-bc77-33e7-bf7b-0de2e6c6067d,name=Lekator,properties={},legacy=false] (/179.98.13.202:56393): §cEssa conta já se encontra logada!
+[14:15:14] [Server thread/INFO]: com.mojang.authlib.GameProfile@7f921fab[id=3d9d32e1-bc77-33e7-bf7b-0de2e6c6067d,name=Lekator,properties={},legacy=false] (/179.98.13.202:56393) lost connection: §cEssa conta já se encontra logada!
+[14:15:20] [Thread-60/INFO]: Disconnecting com.mojang.authlib.GameProfile@3e1ded62[id=3d9d32e1-bc77-33e7-bf7b-0de2e6c6067d,name=Lekator,properties={},legacy=false] (/179.98.13.202:56404): §cEssa conta já se encontra logada!
+[14:15:20] [Server thread/INFO]: com.mojang.authlib.GameProfile@3e1ded62[id=3d9d32e1-bc77-33e7-bf7b-0de2e6c6067d,name=Lekator,properties={},legacy=false] (/179.98.13.202:56404) lost connection: §cEssa conta já se encontra logada!
+[14:15:23] [Server thread/INFO]: Lekator lost connection: Timed out
+[14:15:30] [Thread-61/INFO]: UUID of player Lekator is 3d9d32e1-bc77-33e7-bf7b-0de2e6c6067d
+[14:15:30] [Server thread/INFO]: Lekator[179.98.13.202/179.98.13.202:56427] logged in with entity id 195648 at ([VoidWorld]1606.4360554361, 57.0, -15803.300000011921)
+[14:15:46] [Server thread/INFO]: Lekator issued server command: /login meguxa123
+[14:16:44] [Server thread/INFO]: [0;30;1m[21m[[0;33;22m![0;30;1m[21m] [mEncontrou Bugs? Reporte em [0;32;1m[21mforum.astatine.com.br [m
+[14:17:36] [Thread-63/INFO]: Disconnecting com.mojang.authlib.GameProfile@257ee39f[id=3d9d32e1-bc77-33e7-bf7b-0de2e6c6067d,name=Lekator,properties={},legacy=false] (/179.98.13.202:56539): §cEssa conta já se encontra logada!
+[14:17:36] [Server thread/INFO]: com.mojang.authlib.GameProfile@257ee39f[id=3d9d32e1-bc77-33e7-bf7b-0de2e6c6067d,name=Lekator,properties={},legacy=false] (/179.98.13.202:56539) lost connection: §cEssa conta já se encontra logada!
+[14:17:40] [Server thread/INFO]: Lekator lost connection: Timed out
+[14:17:41] [Thread-64/INFO]: UUID of player Lekator is 3d9d32e1-bc77-33e7-bf7b-0de2e6c6067d
+[14:17:41] [Server thread/INFO]: Lekator[179.98.13.202/179.98.13.202:56565] logged in with entity id 195945 at ([VoidWorld]1606.4281671955566, 57.75, -15802.686977860028)
+[14:17:43] [Server thread/INFO]: Lekator issued server command: /login meguxa123
+[14:18:44] [Server thread/INFO]: [0;30;1m[21m[[0;33;22m![0;30;1m[21m] [mUse [0;32;1m[21m/kits [0;37;1mpara abrir o menu com a lista de itens e kits! [m
+[14:20:24] [Server thread/INFO]: [0;37;22m[21m[[0;33;22m[21mAstatine[0;37;22m[21m] [0;31;1mRemovendo itens do chao em [0;37;22m10 [0;31;1msegundos![m
+[14:20:44] [Server thread/INFO]: [0;30;1m[21m[[0;33;22m![0;30;1m[21m] [muse [0;32;1m[21m/warps [0;37;1mpara ver a lista de warps disponíveis [m
+[14:22:34] [Craft Scheduler Thread - 105/INFO]: [Metrics] Connection reset
+[14:22:44] [Server thread/INFO]: [0;30;1m[21m[[0;33;22m![0;30;1m[21m] [mUse [0;32;1m/mudarsenha [senha_antiga] [nova] [nova] [0;37;1mPara trocar sua senha! [m
+[14:23:20] [Server thread/INFO]: Lekator issued server command: /warp mob
+[14:23:20] [Server thread/INFO]: Lekator issued server command: /warp mobs
+[14:23:25] [Server thread/INFO]: Lekator issued server command: /warp mobs
+[14:23:28] [Server thread/INFO]: zombie_slayer808 issued server command: /warp mobs
+[14:24:44] [Server thread/INFO]: [0;30;1m[21m[[0;33;22m![0;30;1m[21m] [mAcesse https://goo.gl/Cu6IOX e veja as estatísticas individuais e os Top 5[m
+[14:26:44] [Server thread/INFO]: [0;30;1m[21m[[0;33;22m![0;30;1m[21m] [mDesafie seus amigos com o [0;32;1m[21m/x1 desafiar! [m
+[14:27:15] [Server thread/INFO]: Lekator issued server command: /home
+[14:27:18] [Server thread/INFO]: Player Lekator teleporting to home home (1595.5, 57.5, -15798.5) of player Lekator
+[14:27:20] [Server thread/INFO]: zombie_slayer808 issued server command: /home quarto
+[14:27:23] [Server thread/INFO]: Player zombie_slayer808 teleporting to home quarto (1600.5, 50.5, -15812.5) of player zombie_slayer808
+[14:27:27] [Server thread/WARN]: Lekator moved too quickly! -6.791830136207864,0.08000001311302185,8.76383384782821 (-6.791830136207864, 0.08000001311302185, 8.76383384782821)
+[14:28:04] [Server thread/INFO]: [0;37;22m[21m[[0;33;22m[21mAstatine[0;37;22m[21m] [0;31;1mRemovendo itens do chao em [0;37;22m10 [0;31;1msegundos![m
+[14:28:44] [Server thread/INFO]: [0;30;1m[21m[[0;33;22m![0;30;1m[21m] [mEncontrou Bugs? Reporte em [0;32;1m[21mforum.astatine.com.br [m
+[14:30:00] [Server thread/INFO]: Lekator issued server command: /clan kick zombie_slayer808
+[14:30:34] [Server thread/INFO]: [CHUVA ACIDA] Chuva Acida ativada[m
+[14:30:34] [Server thread/INFO]:  Proxima chuva acida em [0;32;1m51 [0;37;22mminuto(s)[m
+[14:30:44] [Server thread/INFO]: [0;30;1m[21m[[0;33;22m![0;30;1m[21m] [mUse [0;32;1m[21m/kits [0;37;1mpara abrir o menu com a lista de itens e kits! [m
+[14:30:44] [Server thread/INFO]: [0;31;22m[21mA chuva ácida começou![m
+[14:31:14] [Server thread/INFO]: [0;32;22m[21mA chuva ácida acabou[m
+[14:32:34] [Craft Scheduler Thread - 122/INFO]: [Metrics] Connection reset
+[14:32:44] [Server thread/INFO]: [0;30;1m[21m[[0;33;22m![0;30;1m[21m] [muse [0;32;1m[21m/warps [0;37;1mpara ver a lista de warps disponíveis [m
+[14:33:10] [Server thread/INFO]: Lekator lost connection: Timed out
+[14:33:12] [Thread-70/INFO]: UUID of player Lekator is 3d9d32e1-bc77-33e7-bf7b-0de2e6c6067d
+[14:33:12] [Server thread/INFO]: Lekator[179.98.13.202/179.98.13.202:56650] logged in with entity id 230906 at ([VoidWorld]1593.7564903958428, 57.0, -15798.675846745224)
+[14:33:23] [Server thread/INFO]: Lekator issued server command: /login meguxa123
+[14:34:44] [Server thread/INFO]: [0;30;1m[21m[[0;33;22m![0;30;1m[21m] [mUse [0;32;1m/mudarsenha [senha_antiga] [nova] [nova] [0;37;1mPara trocar sua senha! [m
+[14:35:44] [Server thread/INFO]: [0;37;22m[21m[[0;33;22m[21mAstatine[0;37;22m[21m] [0;31;1mRemovendo itens do chao em [0;37;22m10 [0;31;1msegundos![m
+[14:36:07] [Server thread/INFO]: Lekator lost connection: Disconnected
+[14:36:44] [Server thread/INFO]: [0;30;1m[21m[[0;33;22m![0;30;1m[21m] [mAcesse https://goo.gl/Cu6IOX e veja as estatísticas individuais e os Top 5[m
+[14:37:35] [Server thread/INFO]: zombie_slayer808 lost connection: Disconnected
+[14:38:44] [Server thread/INFO]: [0;30;1m[21m[[0;33;22m![0;30;1m[21m] [mDesafie seus amigos com o [0;32;1m[21m/x1 desafiar! [m
+[14:40:44] [Server thread/INFO]: [0;30;1m[21m[[0;33;22m![0;30;1m[21m] [mEncontrou Bugs? Reporte em [0;32;1m[21mforum.astatine.com.br [m
+[14:42:34] [Craft Scheduler Thread - 105/INFO]: [Metrics] Server returned HTTP response code: 500 for URL: http://mcstats.org/report/AsyncWorldEdit
+[14:42:44] [Server thread/INFO]: [0;30;1m[21m[[0;33;22m![0;30;1m[21m] [mUse [0;32;1m[21m/kits [0;37;1mpara abrir o menu com a lista de itens e kits! [m
+[14:43:24] [Server thread/INFO]: [0;37;22m[21m[[0;33;22m[21mAstatine[0;37;22m[21m] [0;31;1mRemovendo itens do chao em [0;37;22m10 [0;31;1msegundos![m
+[14:44:44] [Server thread/INFO]: [0;30;1m[21m[[0;33;22m![0;30;1m[21m] [muse [0;32;1m[21m/warps [0;37;1mpara ver a lista de warps disponíveis [m
+[14:46:44] [Server thread/INFO]: [0;30;1m[21m[[0;33;22m![0;30;1m[21m] [mUse [0;32;1m/mudarsenha [senha_antiga] [nova] [nova] [0;37;1mPara trocar sua senha! [m
+[14:48:44] [Server thread/INFO]: [0;30;1m[21m[[0;33;22m![0;30;1m[21m] [mAcesse https://goo.gl/Cu6IOX e veja as estatísticas individuais e os Top 5[m
+[14:50:44] [Server thread/INFO]: [0;30;1m[21m[[0;33;22m![0;30;1m[21m] [mDesafie seus amigos com o [0;32;1m[21m/x1 desafiar! [m
+[14:51:04] [Server thread/INFO]: [0;37;22m[21m[[0;33;22m[21mAstatine[0;37;22m[21m] [0;31;1mRemovendo itens do chao em [0;37;22m10 [0;31;1msegundos![m
+[14:52:34] [Craft Scheduler Thread - 141/INFO]: [Metrics] Unexpected end of file from server
+[14:52:44] [Server thread/INFO]: [0;30;1m[21m[[0;33;22m![0;30;1m[21m] [mEncontrou Bugs? Reporte em [0;32;1m[21mforum.astatine.com.br [m
+[14:54:44] [Server thread/INFO]: [0;30;1m[21m[[0;33;22m![0;30;1m[21m] [mUse [0;32;1m[21m/kits [0;37;1mpara abrir o menu com a lista de itens e kits! [m
+[14:56:44] [Server thread/INFO]: [0;30;1m[21m[[0;33;22m![0;30;1m[21m] [muse [0;32;1m[21m/warps [0;37;1mpara ver a lista de warps disponíveis [m
+[14:58:44] [Server thread/INFO]: [0;37;22m[21m[[0;33;22m[21mAstatine[0;37;22m[21m] [0;31;1mRemovendo itens do chao em [0;37;22m10 [0;31;1msegundos![m
+[14:58:44] [Server thread/INFO]: [0;30;1m[21m[[0;33;22m![0;30;1m[21m] [mUse [0;32;1m/mudarsenha [senha_antiga] [nova] [nova] [0;37;1mPara trocar sua senha! [m
+[15:00:44] [Server thread/INFO]: [0;30;1m[21m[[0;33;22m![0;30;1m[21m] [mAcesse https://goo.gl/Cu6IOX e veja as estatísticas individuais e os Top 5[m
+[15:02:34] [Craft Scheduler Thread - 143/INFO]: [Metrics] Server returned HTTP response code: 500 for URL: http://mcstats.org/report/AsyncWorldEdit
+[15:02:44] [Server thread/INFO]: [0;30;1m[21m[[0;33;22m![0;30;1m[21m] [mDesafie seus amigos com o [0;32;1m[21m/x1 desafiar! [m
+[15:04:44] [Server thread/INFO]: [0;30;1m[21m[[0;33;22m![0;30;1m[21m] [mEncontrou Bugs? Reporte em [0;32;1m[21mforum.astatine.com.br [m
+[15:05:59] [Netty Epoll Server IO #2/WARN]: [ProtocolLib] [WrappedGameProfile] Plugin AstatineAddons created a profile with 'id1' as an UUID.
+[15:06:24] [Server thread/INFO]: [0;37;22m[21m[[0;33;22m[21mAstatine[0;37;22m[21m] [0;31;1mRemovendo itens do chao em [0;37;22m10 [0;31;1msegundos![m
+[15:06:44] [Server thread/INFO]: [0;30;1m[21m[[0;33;22m![0;30;1m[21m] [mUse [0;32;1m[21m/kits [0;37;1mpara abrir o menu com a lista de itens e kits! [m
+[15:08:44] [Server thread/INFO]: [0;30;1m[21m[[0;33;22m![0;30;1m[21m] [muse [0;32;1m[21m/warps [0;37;1mpara ver a lista de warps disponíveis [m
+[15:10:44] [Server thread/INFO]: [0;30;1m[21m[[0;33;22m![0;30;1m[21m] [mUse [0;32;1m/mudarsenha [senha_antiga] [nova] [nova] [0;37;1mPara trocar sua senha! [m
+[15:12:34] [Craft Scheduler Thread - 152/INFO]: [Metrics] Connection reset
+[15:12:44] [Server thread/INFO]: [0;30;1m[21m[[0;33;22m![0;30;1m[21m] [mAcesse https://goo.gl/Cu6IOX e veja as estatísticas individuais e os Top 5[m
+[15:14:04] [Server thread/INFO]: [0;37;22m[21m[[0;33;22m[21mAstatine[0;37;22m[21m] [0;31;1mRemovendo itens do chao em [0;37;22m10 [0;31;1msegundos![m
+[15:14:44] [Server thread/INFO]: [0;30;1m[21m[[0;33;22m![0;30;1m[21m] [mDesafie seus amigos com o [0;32;1m[21m/x1 desafiar! [m
+[15:16:44] [Server thread/INFO]: [0;30;1m[21m[[0;33;22m![0;30;1m[21m] [mEncontrou Bugs? Reporte em [0;32;1m[21mforum.astatine.com.br [m
+[15:18:44] [Server thread/INFO]: [0;30;1m[21m[[0;33;22m![0;30;1m[21m] [mUse [0;32;1m[21m/kits [0;37;1mpara abrir o menu com a lista de itens e kits! [m
+[15:20:44] [Server thread/INFO]: [0;30;1m[21m[[0;33;22m![0;30;1m[21m] [muse [0;32;1m[21m/warps [0;37;1mpara ver a lista de warps disponíveis [m
+[15:21:34] [Server thread/INFO]: [CHUVA ACIDA] Chuva Acida ativada[m
+[15:21:34] [Server thread/INFO]:  Proxima chuva acida em [0;32;1m54 [0;37;22mminuto(s)[m
+[15:21:44] [Server thread/INFO]: [0;31;22m[21mA chuva ácida começou![m
+[15:21:44] [Server thread/INFO]: [0;37;22m[21m[[0;33;22m[21mAstatine[0;37;22m[21m] [0;31;1mRemovendo itens do chao em [0;37;22m10 [0;31;1msegundos![m
+[15:22:14] [Server thread/INFO]: [0;32;22m[21mA chuva ácida acabou[m
+[15:22:44] [Server thread/INFO]: [0;30;1m[21m[[0;33;22m![0;30;1m[21m] [mUse [0;32;1m/mudarsenha [senha_antiga] [nova] [nova] [0;37;1mPara trocar sua senha! [m
+[15:23:34] [Craft Scheduler Thread - 157/INFO]: [Metrics] Server returned HTTP response code: 504 for URL: http://mcstats.org/report/AsyncWorldEdit
+[15:24:44] [Server thread/INFO]: [0;30;1m[21m[[0;33;22m![0;30;1m[21m] [mAcesse https://goo.gl/Cu6IOX e veja as estatísticas individuais e os Top 5[m
+[15:26:44] [Server thread/INFO]: [0;30;1m[21m[[0;33;22m![0;30;1m[21m] [mDesafie seus amigos com o [0;32;1m[21m/x1 desafiar! [m
+[15:28:44] [Server thread/INFO]: [0;30;1m[21m[[0;33;22m![0;30;1m[21m] [mEncontrou Bugs? Reporte em [0;32;1m[21mforum.astatine.com.br [m
+[15:29:24] [Server thread/INFO]: [0;37;22m[21m[[0;33;22m[21mAstatine[0;37;22m[21m] [0;31;1mRemovendo itens do chao em [0;37;22m10 [0;31;1msegundos![m
+[15:30:44] [Server thread/INFO]: [0;30;1m[21m[[0;33;22m![0;30;1m[21m] [mUse [0;32;1m[21m/kits [0;37;1mpara abrir o menu com a lista de itens e kits! [m
+[15:32:34] [Craft Scheduler Thread - 169/INFO]: [Metrics] Connection reset
+[15:32:44] [Server thread/INFO]: [0;30;1m[21m[[0;33;22m![0;30;1m[21m] [muse [0;32;1m[21m/warps [0;37;1mpara ver a lista de warps disponíveis [m
+[15:34:44] [Server thread/INFO]: [0;30;1m[21m[[0;33;22m![0;30;1m[21m] [mUse [0;32;1m/mudarsenha [senha_antiga] [nova] [nova] [0;37;1mPara trocar sua senha! [m
+[15:35:49] [Thread-73/INFO]: UUID of player zombie_slayer808 is f7232bb0-36b8-3212-adcc-9e77e7ab2c2b
+[15:35:49] [Server thread/INFO]: zombie_slayer808[189.55.72.224/189.55.72.224:55452] logged in with entity id 231963 at ([VoidWorld]1596.5581850880967, 57.0, -15799.068583405046)
+[15:36:01] [Server thread/INFO]: zombie_slayer808 issued server command: /login giovana123
+[15:36:44] [Server thread/INFO]: [0;30;1m[21m[[0;33;22m![0;30;1m[21m] [mAcesse https://goo.gl/Cu6IOX e veja as estatísticas individuais e os Top 5[m
+[15:37:04] [Server thread/INFO]: [0;37;22m[21m[[0;33;22m[21mAstatine[0;37;22m[21m] [0;31;1mRemovendo itens do chao em [0;37;22m10 [0;31;1msegundos![m
+[15:38:44] [Server thread/INFO]: [0;30;1m[21m[[0;33;22m![0;30;1m[21m] [mDesafie seus amigos com o [0;32;1m[21m/x1 desafiar! [m
+[15:40:44] [Server thread/INFO]: [0;30;1m[21m[[0;33;22m![0;30;1m[21m] [mEncontrou Bugs? Reporte em [0;32;1m[21mforum.astatine.com.br [m
+[15:42:15] [Server thread/INFO]: zombie_slayer808 lost connection: Disconnected
+[15:42:34] [Craft Scheduler Thread - 157/INFO]: [Metrics] Server returned HTTP response code: 500 for URL: http://mcstats.org/report/AsyncWorldEdit
+[15:42:44] [Server thread/INFO]: [0;30;1m[21m[[0;33;22m![0;30;1m[21m] [mUse [0;32;1m[21m/kits [0;37;1mpara abrir o menu com a lista de itens e kits! [m
+[15:44:44] [Server thread/INFO]: [0;30;1m[21m[[0;33;22m![0;30;1m[21m] [muse [0;32;1m[21m/warps [0;37;1mpara ver a lista de warps disponíveis [m
+[15:44:44] [Server thread/INFO]: [0;37;22m[21m[[0;33;22m[21mAstatine[0;37;22m[21m] [0;31;1mRemovendo itens do chao em [0;37;22m10 [0;31;1msegundos![m
+[15:46:44] [Server thread/INFO]: [0;30;1m[21m[[0;33;22m![0;30;1m[21m] [mUse [0;32;1m/mudarsenha [senha_antiga] [nova] [nova] [0;37;1mPara trocar sua senha! [m
+[15:48:44] [Server thread/INFO]: [0;30;1m[21m[[0;33;22m![0;30;1m[21m] [mAcesse https://goo.gl/Cu6IOX e veja as estatísticas individuais e os Top 5[m
+[15:50:44] [Server thread/INFO]: [0;30;1m[21m[[0;33;22m![0;30;1m[21m] [mDesafie seus amigos com o [0;32;1m[21m/x1 desafiar! [m
+[15:52:24] [Server thread/INFO]: [0;37;22m[21m[[0;33;22m[21mAstatine[0;37;22m[21m] [0;31;1mRemovendo itens do chao em [0;37;22m10 [0;31;1msegundos![m
+[15:52:34] [Craft Scheduler Thread - 157/INFO]: [Metrics] Unexpected end of file from server
+[15:52:44] [Server thread/INFO]: [0;30;1m[21m[[0;33;22m![0;30;1m[21m] [mEncontrou Bugs? Reporte em [0;32;1m[21mforum.astatine.com.br [m
+[15:54:44] [Server thread/INFO]: [0;30;1m[21m[[0;33;22m![0;30;1m[21m] [mUse [0;32;1m[21m/kits [0;37;1mpara abrir o menu com a lista de itens e kits! [m
+[15:56:44] [Server thread/INFO]: [0;30;1m[21m[[0;33;22m![0;30;1m[21m] [muse [0;32;1m[21m/warps [0;37;1mpara ver a lista de warps disponíveis [m
+[15:58:44] [Server thread/INFO]: [0;30;1m[21m[[0;33;22m![0;30;1m[21m] [mUse [0;32;1m/mudarsenha [senha_antiga] [nova] [nova] [0;37;1mPara trocar sua senha! [m
+[16:00:04] [Server thread/INFO]: [0;37;22m[21m[[0;33;22m[21mAstatine[0;37;22m[21m] [0;31;1mRemovendo itens do chao em [0;37;22m10 [0;31;1msegundos![m
+[16:00:35] [Thread-75/INFO]: UUID of player Heisenberg is 578f8380-cff4-33c8-9f51-a2d6bbe70d46
+[16:00:35] [Server thread/INFO]: Heisenberg[201.49.77.214/201.49.77.214:59385] logged in with entity id 233577 at ([VoidSpawn]0.5, 61.0, 0.5)
+[16:00:43] [Server thread/INFO]: Heisenberg issued server command: /login Estevao3254
+[16:00:44] [Server thread/INFO]: [0;30;1m[21m[[0;33;22m![0;30;1m[21m] [mAcesse https://goo.gl/Cu6IOX e veja as estatísticas individuais e os Top 5[m
+[16:00:45] [Server thread/INFO]: Heisenberg issued server command: /admin
+[16:00:48] [Server thread/INFO]: Heisenberg issued server command: /vis
+[16:00:56] [Server thread/INFO]: Heisenberg issued server command: /tpc 4546 45 654
+[16:02:34] [Craft Scheduler Thread - 195/INFO]: [Metrics] Server returned HTTP response code: 500 for URL: http://mcstats.org/report/AsyncWorldEdit
+[16:02:44] [Server thread/INFO]: [0;30;1m[21m[[0;33;22m![0;30;1m[21m] [mDesafie seus amigos com o [0;32;1m[21m/x1 desafiar! [m
+[16:04:44] [Server thread/INFO]: [0;30;1m[21m[[0;33;22m![0;30;1m[21m] [mEncontrou Bugs? Reporte em [0;32;1m[21mforum.astatine.com.br [m
+[16:06:06] [Netty Epoll Server IO #0/WARN]: [ProtocolLib] [WrappedGameProfile] Plugin AstatineAddons created a profile with 'id1' as an UUID.
+[16:06:44] [Server thread/INFO]: [0;30;1m[21m[[0;33;22m![0;30;1m[21m] [mUse [0;32;1m[21m/kits [0;37;1mpara abrir o menu com a lista de itens e kits! [m
+[16:07:44] [Server thread/INFO]: [0;37;22m[21m[[0;33;22m[21mAstatine[0;37;22m[21m] [0;31;1mRemovendo itens do chao em [0;37;22m10 [0;31;1msegundos![m
+[16:08:44] [Server thread/INFO]: [0;30;1m[21m[[0;33;22m![0;30;1m[21m] [muse [0;32;1m[21m/warps [0;37;1mpara ver a lista de warps disponíveis [m
+[16:10:44] [Server thread/INFO]: [0;30;1m[21m[[0;33;22m![0;30;1m[21m] [mUse [0;32;1m/mudarsenha [senha_antiga] [nova] [nova] [0;37;1mPara trocar sua senha! [m
+[16:12:34] [Craft Scheduler Thread - 189/INFO]: [Metrics] Server returned HTTP response code: 500 for URL: http://mcstats.org/report/AsyncWorldEdit
+[16:12:44] [Server thread/INFO]: [0;30;1m[21m[[0;33;22m![0;30;1m[21m] [mAcesse https://goo.gl/Cu6IOX e veja as estatísticas individuais e os Top 5[m
+[16:14:44] [Server thread/INFO]: [0;30;1m[21m[[0;33;22m![0;30;1m[21m] [mDesafie seus amigos com o [0;32;1m[21m/x1 desafiar! [m
+[16:15:24] [Server thread/INFO]: [0;37;22m[21m[[0;33;22m[21mAstatine[0;37;22m[21m] [0;31;1mRemovendo itens do chao em [0;37;22m10 [0;31;1msegundos![m
+[16:15:34] [Server thread/INFO]: [CHUVA ACIDA] Chuva Acida ativada[m
+[16:15:34] [Server thread/INFO]:  Proxima chuva acida em [0;32;1m39 [0;37;22mminuto(s)[m
+[16:15:44] [Server thread/INFO]: [0;31;22m[21mA chuva ácida começou![m
+[16:16:14] [Server thread/INFO]: [0;32;22m[21mA chuva ácida acabou[m
+[16:16:44] [Server thread/INFO]: [0;30;1m[21m[[0;33;22m![0;30;1m[21m] [mEncontrou Bugs? Reporte em [0;32;1m[21mforum.astatine.com.br [m
+[16:18:44] [Server thread/INFO]: [0;30;1m[21m[[0;33;22m![0;30;1m[21m] [mUse [0;32;1m[21m/kits [0;37;1mpara abrir o menu com a lista de itens e kits! [m
+[16:20:44] [Server thread/INFO]: [0;30;1m[21m[[0;33;22m![0;30;1m[21m] [muse [0;32;1m[21m/warps [0;37;1mpara ver a lista de warps disponíveis [m
+[16:22:44] [Server thread/INFO]: [0;30;1m[21m[[0;33;22m![0;30;1m[21m] [mUse [0;32;1m/mudarsenha [senha_antiga] [nova] [nova] [0;37;1mPara trocar sua senha! [m
+[16:23:04] [Server thread/INFO]: [0;37;22m[21m[[0;33;22m[21mAstatine[0;37;22m[21m] [0;31;1mRemovendo itens do chao em [0;37;22m10 [0;31;1msegundos![m
+[16:23:34] [Craft Scheduler Thread - 204/INFO]: [Metrics] Server returned HTTP response code: 504 for URL: http://mcstats.org/report/AsyncWorldEdit
+[16:24:44] [Server thread/INFO]: [0;30;1m[21m[[0;33;22m![0;30;1m[21m] [mAcesse https://goo.gl/Cu6IOX e veja as estatísticas individuais e os Top 5[m
+[16:26:44] [Server thread/INFO]: [0;30;1m[21m[[0;33;22m![0;30;1m[21m] [mDesafie seus amigos com o [0;32;1m[21m/x1 desafiar! [m
+[16:28:44] [Server thread/INFO]: [0;30;1m[21m[[0;33;22m![0;30;1m[21m] [mEncontrou Bugs? Reporte em [0;32;1m[21mforum.astatine.com.br [m
+[16:30:44] [Server thread/INFO]: [0;30;1m[21m[[0;33;22m![0;30;1m[21m] [mUse [0;32;1m[21m/kits [0;37;1mpara abrir o menu com a lista de itens e kits! [m
+[16:30:44] [Server thread/INFO]: [0;37;22m[21m[[0;33;22m[21mAstatine[0;37;22m[21m] [0;31;1mRemovendo itens do chao em [0;37;22m10 [0;31;1msegundos![m
+[16:32:34] [Craft Scheduler Thread - 217/INFO]: [Metrics] Connection reset
+[16:32:44] [Server thread/INFO]: [0;30;1m[21m[[0;33;22m![0;30;1m[21m] [muse [0;32;1m[21m/warps [0;37;1mpara ver a lista de warps disponíveis [m
+[16:34:44] [Server thread/INFO]: [0;30;1m[21m[[0;33;22m![0;30;1m[21m] [mUse [0;32;1m/mudarsenha [senha_antiga] [nova] [nova] [0;37;1mPara trocar sua senha! [m
+[16:36:44] [Server thread/INFO]: [0;30;1m[21m[[0;33;22m![0;30;1m[21m] [mAcesse https://goo.gl/Cu6IOX e veja as estatísticas individuais e os Top 5[m
+[16:38:24] [Server thread/INFO]: [0;37;22m[21m[[0;33;22m[21mAstatine[0;37;22m[21m] [0;31;1mRemovendo itens do chao em [0;37;22m10 [0;31;1msegundos![m
+[16:38:44] [Server thread/INFO]: [0;30;1m[21m[[0;33;22m![0;30;1m[21m] [mDesafie seus amigos com o [0;32;1m[21m/x1 desafiar! [m
+[16:39:59] [Thread-82/INFO]: UUID of player jimmyfilips is 6c69c312-169e-3458-ac00-6c98dd00a9dd
+[16:39:59] [Server thread/INFO]: jimmyfilips[177.54.195.86/177.54.195.86:27338] logged in with entity id 233996 at ([VoidTerrenos]-13075.399094137409, 4.0, 19921.9670153107)
+[16:40:01] [Server thread/INFO]: jimmyfilips issued server command: /login jim763
+[16:40:02] [Server thread/INFO]: jimmyfilips issued server command: /hide
+[16:40:09] [Server thread/INFO]: jimmyfilips issued server command: /stop
+[16:40:09] [Server thread/INFO]: [jimmyfilips: Stopping the server]
+[16:40:09] [Server thread/INFO]: Stopping server
+[16:40:09] [Server thread/INFO]: [Citizens] Disabling Citizens v2.0.16-SNAPSHOT (build 1267)
+[16:40:09] [Server thread/INFO]: [VipZero] Disabling VipZero v1.2.2
+[16:40:09] [Server thread/INFO]: [VipZero] Disabling VipZero - Author: SubZero0
+[16:40:09] [Server thread/INFO]: [LWC] Disabling LWC v1.7.3
+[16:40:09] [Server thread/INFO]: [LWC] Flushing protection updates (0)
+[16:40:09] [Server thread/INFO]: [AstatineX1] Disabling AstatineX1 v1.0
+[16:40:09] [Server thread/INFO]: [TitleManager] Disabling TitleManager v1.5.12
+[16:40:09] [Server thread/INFO]: [AstatineHome] Disabling AstatineHome v1.5.12
+[16:40:09] [Server thread/INFO]: [AstatineClans] Disabling AstatineClans v2.0
+[16:40:09] [Server thread/INFO]: [Vault] Disabling Vault v1.5.6-b49
+[16:40:09] [Server thread/INFO]: [Essentials] Payment method was disabled. No longer accepting payments.
+[16:40:09] [Server thread/INFO]: [mcMMO] Disabling mcMMO v1.5.03-b62
+[16:42:09] [Server thread/INFO]: [PagSeguro_API] Disabling PagSeguro_API v2.0.4
+[16:42:09] [Server thread/INFO]: [PagSeguro_API] Disabling PagSeguro API for Bukkit
+[16:42:09] [Server thread/INFO]: [Eventos] Disabling Eventos v1.0
+[16:42:09] [Server thread/INFO]: [PermissionsEx] Disabling PermissionsEx v1.23.4
+[16:42:09] [Server thread/INFO]: [AstatineLogin] Disabling AstatineLogin v1.0
+[16:42:09] [Server thread/INFO]: [VoxelSniper] Disabling VoxelSniper v5.171.0-SNAPSHOT
+[16:42:09] [Server thread/INFO]: [AsyncWorldEdit] Disabling AsyncWorldEdit v2.2.2
+[16:42:09] [Server thread/INFO]: [AsyncWorldEdit] Disabled
+[16:42:09] [Server thread/INFO]: [ChestPlus] Disabling ChestPlus v1.0
+[16:42:09] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v12.8
+[16:42:09] [Server thread/INFO]: [AstatineAddons] Disabling AstatineAddons v2.9.3
+[16:42:09] [Server thread/INFO]: [0;32;1m========================================[m
+[16:42:09] [Server thread/INFO]: [0;32;1m [m
+[16:42:09] [Server thread/INFO]: [0;37;22m [Astatine.ast] foi Desativado[m
+[16:42:09] [Server thread/INFO]: [0;32;1m [m
+[16:42:09] [Server thread/INFO]: [0;32;1m========================================[m
+[16:42:09] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v3.6.5
+[16:42:09] [Server thread/INFO]: [Holograms] Disabling Holograms v2.3.0-SNAPSHOT
+[16:42:09] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v6.1
+[16:42:09] [Server thread/INFO]: [WorldGuard] Shutting down executor and waiting for any pending tasks...
+[16:42:09] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v2.4-b527
+[16:42:09] [Server thread/INFO]: [Multiverse-Core] - Disabled
+[16:42:09] [Server thread/INFO]: [PayPal_NVP] Disabling PayPal_NVP v0.0.1.4
+[16:42:09] [Server thread/INFO]: [PayPal_NVP] Disabling PayPal NVP - Author: http://paypal-nvp.sourceforge.net/ & SubZero0
+[16:42:09] [Server thread/INFO]: [AstatineTerrenos] Disabling AstatineTerrenos v1.0
+[16:42:09] [Server thread/INFO]: [AstatineCorreio] Disabling AstatineCorreio v1.0
+[16:42:09] [Server thread/INFO]: [NametagEdit] Disabling NametagEdit v4.1.2
+[16:42:09] [Server thread/INFO]: [WorldBorder] Disabling WorldBorder v1.8.1
+[16:42:09] [Server thread/INFO]: [WorldBorder] [CONFIG] Border-checking timed task stopped.
+[16:42:09] [Server thread/INFO]: [AstatineNPC] Disabling AstatineNPC v1.0.0
+[16:42:09] [Server thread/INFO]: [AstatineTeleport] Disabling AstatineTeleport v1.0.2
+[16:42:09] [Server thread/INFO]: [VipZeroFIX] Disabling VipZeroFIX v1.0.0
+[16:42:09] [Server thread/INFO]: [VipZeroFIX] VipZeroFIX - Autor: SubZero0
+[16:42:09] [Server thread/INFO]: [AdvancedBan] Disabling AdvancedBan v2.0.5
+[16:42:09] [Server thread/INFO]: 
+ 
+[]=====[Disabling AdvancedBan]=====[]
+| Information:
+|   Name: AdvancedBan
+|   Developer: Leoko
+|   Version: 2.0.5
+|   MySQL: true
+| Support:
+|   Skype: Leoko33
+|   Mail: Leoko4433@gmail.com
+| Update:
+|   You have the newest version
+[]================================[]
+ 
+[16:42:09] [Server thread/INFO]: [PlugMan] Disabling PlugMan v2.0.8
+[16:42:09] [Server thread/INFO]: [Libstore] Disabling Libstore v1.1.3
+[16:42:09] [Server thread/INFO]: [ClearLag] Disabling ClearLag v2.9.3
+[16:42:09] [Server thread/INFO]: [ClearLag] Clearlag is now disabled!
+[16:42:09] [Server thread/INFO]: [BestRanked] Disabling BestRanked v2.0.3
+[16:42:09] [Server thread/INFO]: [iConomy_Recreation] Disabling iConomy_Recreation v8.0
+[16:42:09] [Server thread/INFO]: [iConomy_Recreation] Closing general data...
+[16:42:09] [Server thread/INFO]: [iConomy_Recreation] Disabled. (0 ms)
+[16:42:09] [Server thread/INFO]: [Essentials] Disabling Essentials vTeamCity
+[16:42:09] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.0;3342-78f975b9
+[16:42:09] [Server thread/INFO]: [AsyncWorldEditInjector] Disabling AsyncWorldEditInjector v2.2.2
+[16:42:09] [Server thread/INFO]: [AsyncWorldEditInjector] Disabled
+[16:42:09] [Server thread/INFO]: Saving players
+[16:42:09] [Server thread/INFO]: Heisenberg lost connection: Server closed
+[16:42:09] [Server thread/INFO]: Heisenberg left the game.
+[16:42:09] [Server thread/INFO]: Saving worlds
+[16:42:09] [Server thread/INFO]: Saving chunks for level 'VoidSpawn'/Overworld
+[16:42:09] [Server thread/INFO]: Saving chunks for level 'VoidSpawn_nether'/Nether
+[16:42:09] [Server thread/INFO]: Saving chunks for level 'VoidArena'/Overworld
+[16:42:09] [Server thread/INFO]: Saving chunks for level 'VoidKiller'/Overworld
+[16:42:09] [Server thread/INFO]: Saving chunks for level 'VoidMadeira'/Overworld
+[16:42:09] [Server thread/INFO]: Saving chunks for level 'VoidMinerar'/Overworld
+[16:42:09] [Server thread/INFO]: Saving chunks for level 'VoidMobs'/Overworld
+[16:42:09] [Server thread/INFO]: Saving chunks for level 'VoidTesouro'/Overworld
+[16:42:09] [Server thread/INFO]: Saving chunks for level 'VoidWarpVip'/Overworld
+[16:42:09] [Server thread/INFO]: Saving chunks for level 'VoidNether'/Nether
+[16:42:09] [Server thread/INFO]: Saving chunks for level 'VoidTerrenos'/Overworld
+[16:42:09] [Server thread/INFO]: Saving chunks for level 'VoidWorld'/Overworld
+[16:42:09] [Server thread/INFO]: Saving chunks for level 'VoidLoja'/Overworld
+[16:42:09] [Server thread/INFO]: Saving chunks for level 'VoidEnd'/The End
+[16:42:09] [Server thread/INFO]: Saving chunks for level 'VoidEventos'/Overworld

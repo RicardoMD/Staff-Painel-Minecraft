@@ -1,0 +1,129 @@
+/*
+ * Start Bootstrap - Heroic Features (http://startbootstrap.com/)
+ * Copyright 2013-2016 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
+ */
+
+body {
+    padding-top: 70px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+    background-color: #000000;
+}
+
+.hero-spacer {
+    margin-top: 50px;
+}
+
+.hero-feature {
+    margin-bottom: 30px;
+}
+
+footer {
+    margin: 50px 0;
+}
+
+.navbar-inverse .navbar-brand {
+    color: #f38f39;
+}
+
+.navbar-inverse .navbar-nav li a {
+    color: #f38f39;
+    font-size: 18px;
+}
+
+.btn-primary{
+    background-color: #f38f39;
+    border-color: #f38f39;
+    color: #000000;
+
+}
+
+p{
+    color: #000000;
+}
+
+h3{
+    color: #000000;
+}
+
+h4{
+    color: #f38f39;
+}
+
+
+.table-responsive{
+    padding:5px 10px 5px 5px;
+    width: auto;
+}
+
+
+table {
+    border-collapse: separate;
+    background: #fff;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    margin:auto;
+    border-radius: 5px;
+    -moz-box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.3);
+    -webkit-box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.3);
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.3);
+}
+
+thead {
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+}
+
+thead th {
+    font-family: "Wendy One", sans-serif;
+    font-size: 16px;
+    color: #000000;
+    text-align: center;
+    padding: 10px;
+    background-color: #f38f39;
+}
+thead th:first-child {
+    -moz-border-radius-topleft: 5px;
+    -webkit-border-top-left-radius: 5px;
+    border-top-left-radius: 5px;
+}
+thead th:last-child {
+    -moz-border-radius-topright: 5px;
+    -webkit-border-top-right-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+tbody tr td {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    color: #000000;
+    font-size: 15px;
+    padding: 5px 5px 5px 5px;
+    border-bottom: 1px solid #e0e0e0;
+}
+
+tbody tr:nth-child(2n) {
+    background: #f0f3f5;
+}
+
+tbody tr:last-child td {
+    border-bottom: none;
+}
+tbody tr:last-child td:first-child {
+    -moz-border-radius-bottomleft: 5px;
+    -webkit-border-bottom-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+tbody tr:last-child td:last-child {
+    -moz-border-radius-bottomright: 5px;
+    -webkit-border-bottom-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+legend{
+
+
+    font-size: 20px;
+    color: #f39f39;
+
+}

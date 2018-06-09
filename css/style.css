@@ -1,0 +1,97 @@
+*{
+    margin: 0;
+    padding: 0;
+    outline: none;
+    list-style: none;
+}
+
+body {
+    font-family: 'Oswald', 'sans-serif';
+    font-size: 16px;
+    font-weight: 300;
+    color: #f39f39;
+    background-color: black;
+}
+
+#login{
+    width: 300px;
+    margin: 0 auto;
+    position: relative;
+    top: 250px;
+    border: 1px solid #f39f39;
+    padding: 10px;
+    background-color: #000000;
+
+}
+
+#login label{
+    display: block;
+    padding-top: 5px;
+}
+
+.txt {
+    border: thin solid #f1f1f1;
+    height: 25px;
+    width: 250px;
+}
+
+.sb {
+    border: none;
+    width: 250px;
+    height: 40px;
+    display: block;
+    margin-top: 10px;
+    cursor: pointer;
+    font: 400 16px 'Oswald','sans-serif';
+    background-color: #f39f39;
+    color: black;
+}
+
+.sb:hover{
+background: #000000;
+    border: thin solid #f39f39;
+    color: #f39f39;
+}
+
+.acomodar {
+    margin: 0 auto;
+    width: 250px;
+}
+
+.logo {
+    width: 210px;
+    height: 75px;
+    margin: 0 auto;
+    padding: 7px;
+}
+/* Classes Her */
+
+.bradius {
+    border-radius: 6px;
+    -webkit-border-radius: 6px;
+    -moz-border-radius: 6px;
+}
+
+.fleft{
+    float: left;
+}
+
+.fright{
+    float: right;
+}
+
+
+.txt:focus {
+    border: thin solid #f39f39;
+    box-shadow: 0 2px 16px #f39f39;
+    -webkit-box-shadow: 0 2px 16px #f39f39;
+    -moz-box-shadow: #f39f39;
+}
+
+.txt,.txt:focus,.sb,.sb:hover{
+    transition: all 0.5s linear;
+    -webkit-transition: all 0.5s linear;
+    -moz-transition: all 0.5s linear;
+}
+
+
